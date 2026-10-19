@@ -1,0 +1,136 @@
+{
+  "generated": "2026-10-19",
+  "_note": "FICTIONAL SAMPLE DATA for design checks only. Brands, products, prices and URLs are made up.",
+  "products": [
+    {
+      "id": "sample-brand-a-choco-peanut-bar",
+      "brand": "Sample Brand A", "name": "Choco Peanut Protein Bar", "category": "bar",
+      "pack_size": "6 x 60 g", "pack_g": 360, "units": 6, "serving_g": 60,
+      "veg": "veg", "jain": false,
+      "price_inr": 540, "mrp_inr": 600, "price_store": "Amazon", "price_url": "https://example.com/sample-a/price", "price_date": "2026-10-15",
+      "protein_100g": 33.3, "kcal_100g": 400, "protein_serving": 20, "kcal_serving": 240,
+      "nutrition_url": "https://example.com/sample-a/label", "nutrition_date": "2026-10-15",
+      "stores": [
+        {"name": "Amazon", "url": "https://example.com/sample-a/amazon", "affiliate_url": ""},
+        {"name": "Brand site", "url": "https://example.com/sample-a/shop", "affiliate_url": ""}
+      ],
+      "image": null, "flags": [], "notes": ""
+    },
+    {
+      "id": "sample-brand-b-whey-crisp-bar",
+      "brand": "Sample Brand B", "name": "Whey Crisp Bar, Cookies & Cream", "category": "bar",
+      "pack_size": "1 x 50 g", "pack_g": 50, "units": 1, "serving_g": 50,
+      "veg": "veg", "jain": null,
+      "price_inr": 99, "mrp_inr": 120, "price_store": "BigBasket", "price_url": "https://example.com/sample-b/price", "price_date": "2026-10-14",
+      "protein_100g": null, "kcal_100g": null, "protein_serving": 15, "kcal_serving": 190,
+      "nutrition_url": "https://example.com/sample-b/label", "nutrition_date": "2026-10-14",
+      "stores": [{"name": "BigBasket", "url": "https://example.com/sample-b/bb", "affiliate_url": "https://example.com/sample-b/bb?aff=demo"}],
+      "image": null, "flags": ["Label lists per-serving values only; per-serving numbers used"], "notes": ""
+    },
+    {
+      "id": "sample-brand-c-mini-protein-bites",
+      "brand": "Sample Brand C", "name": "Mini Protein Bites, Coffee", "category": "bar",
+      "pack_size": "10 x 30 g", "pack_g": 300, "units": 10, "serving_g": 30,
+      "veg": "veg", "jain": true,
+      "price_inr": 650, "mrp_inr": 750, "price_store": "Brand site", "price_url": "https://example.com/sample-c/price", "price_date": "2026-10-16",
+      "protein_100g": 30, "kcal_100g": 420, "protein_serving": 9, "kcal_serving": 126,
+      "nutrition_url": "https://example.com/sample-c/label", "nutrition_date": "2026-10-16",
+      "stores": [{"name": "Brand site", "url": "https://example.com/sample-c/shop", "affiliate_url": ""}],
+      "image": null, "flags": [], "notes": ""
+    },
+    {
+      "id": "sample-brand-d-protein-chips-peri-peri",
+      "brand": "Sample Brand D", "name": "Protein Chips, Peri Peri", "category": "chips-snacks",
+      "pack_size": "4 x 40 g", "pack_g": 160, "units": 4, "serving_g": 40,
+      "veg": "veg", "jain": false,
+      "price_inr": 200, "mrp_inr": 240, "price_store": "Amazon", "price_url": "https://example.com/sample-d/price", "price_date": "2026-10-12",
+      "protein_100g": 25, "kcal_100g": 480, "protein_serving": 10, "kcal_serving": 192,
+      "nutrition_url": "https://example.com/sample-d/label", "nutrition_date": "2026-10-12",
+      "stores": [{"name": "Amazon", "url": "https://example.com/sample-d/amazon", "affiliate_url": ""}],
+      "image": null, "flags": [], "notes": ""
+    },
+    {
+      "id": "sample-brand-e-roasted-makhana-pudina",
+      "brand": "Sample Brand E", "name": "Roasted Makhana, Pudina", "category": "makhana",
+      "pack_size": "80 g", "pack_g": 80, "units": 1, "serving_g": 20,
+      "veg": "veg", "jain": true,
+      "price_inr": 120, "mrp_inr": 149, "price_store": "Blinkit", "price_url": "https://example.com/sample-e/price", "price_date": "2026-10-17",
+      "protein_100g": 15, "kcal_100g": 410, "protein_serving": 3, "kcal_serving": 82,
+      "nutrition_url": "https://example.com/sample-e/label", "nutrition_date": "2026-10-17",
+      "stores": [{"name": "Blinkit", "url": "https://example.com/sample-e/blinkit", "affiliate_url": ""}],
+      "image": null, "flags": [], "notes": ""
+    },
+    {
+      "id": "sample-brand-f-high-protein-cookies",
+      "brand": "Sample Brand F", "name": "High Protein Oat Cookies", "category": "cookies",
+      "pack_size": "200 g", "pack_g": 200, "units": 1, "serving_g": 25,
+      "veg": "egg", "jain": false,
+      "price_inr": 250, "mrp_inr": 299, "price_store": "Amazon", "price_url": "https://example.com/sample-f/price", "price_date": "2026-10-13",
+      "protein_100g": 20, "kcal_100g": 470, "protein_serving": 5, "kcal_serving": 117.5,
+      "nutrition_url": "https://example.com/sample-f/label", "nutrition_date": "2026-10-13",
+      "stores": [{"name": "Amazon", "url": "https://example.com/sample-f/amazon", "affiliate_url": ""}],
+      "image": null, "flags": [], "notes": ""
+    },
+    {
+      "id": "sample-brand-g-malai-paneer",
+      "brand": "Sample Brand G", "name": "Malai Paneer", "category": "paneer",
+      "pack_size": "200 g", "pack_g": 200, "units": 1, "serving_g": 100,
+      "veg": "veg", "jain": true,
+      "price_inr": 95, "mrp_inr": 100, "price_store": "BigBasket", "price_url": "https://example.com/sample-g/price", "price_date": "2026-10-18",
+      "protein_100g": 18, "kcal_100g": 265, "protein_serving": 18, "kcal_serving": 265,
+      "nutrition_url": "https://example.com/sample-g/label", "nutrition_date": "2026-10-18",
+      "stores": [
+        {"name": "BigBasket", "url": "https://example.com/sample-g/bb", "affiliate_url": ""},
+        {"name": "Blinkit", "url": "https://example.com/sample-g/blinkit", "affiliate_url": ""}
+      ],
+      "image": null, "flags": [], "notes": ""
+    },
+    {
+      "id": "sample-brand-h-greek-yogurt-plain",
+      "brand": "Sample Brand H", "name": "Greek Yogurt, Plain", "category": "curd-yogurt",
+      "pack_size": "400 g", "pack_g": 400, "units": 1, "serving_g": 100,
+      "veg": "veg", "jain": null,
+      "price_inr": 160, "mrp_inr": 180, "price_store": "Blinkit", "price_url": "https://example.com/sample-h/price", "price_date": "2026-10-18",
+      "protein_100g": 10, "kcal_100g": 75, "protein_serving": 10, "kcal_serving": 75,
+      "nutrition_url": "https://example.com/sample-h/label", "nutrition_date": "2026-10-18",
+      "stores": [{"name": "Blinkit", "url": "https://example.com/sample-h/blinkit", "affiliate_url": ""}],
+      "image": null, "flags": [], "notes": ""
+    },
+    {
+      "id": "sample-brand-i-chicken-crisps",
+      "brand": "Sample Brand I", "name": "Baked Chicken Crisps, Tandoori", "category": "chips-snacks",
+      "pack_size": "50 g", "pack_g": 50, "units": 1, "serving_g": 25,
+      "veg": "non-veg", "jain": false,
+      "price_inr": 60, "mrp_inr": 60, "price_store": "Swiggy Instamart", "price_url": "https://example.com/sample-i/price", "price_date": "2026-10-11",
+      "protein_100g": 30, "kcal_100g": 440, "protein_serving": 7.5, "kcal_serving": 110,
+      "nutrition_url": "https://example.com/sample-i/label", "nutrition_date": "2026-10-11",
+      "stores": [{"name": "Swiggy Instamart", "url": "https://example.com/sample-i/instamart", "affiliate_url": ""}],
+      "image": null, "flags": ["Price seen on a 10-minute delivery app; may vary by pincode"], "notes": ""
+    },
+    {
+      "id": "sample-brand-j-whey-protein-unflavoured",
+      "brand": "Sample Brand J", "name": "Whey Protein Concentrate, Unflavoured", "category": "whey",
+      "pack_size": "1 kg", "pack_g": 1000, "units": 1, "serving_g": 33,
+      "veg": "veg", "jain": null,
+      "price_inr": 2400, "mrp_inr": 3299, "price_store": "Brand site", "price_url": "https://example.com/sample-j/price", "price_date": "2026-10-10",
+      "protein_100g": 75, "kcal_100g": 390, "protein_serving": 24.8, "kcal_serving": 128.7,
+      "nutrition_url": "https://example.com/sample-j/label", "nutrition_date": "2026-10-10",
+      "stores": [
+        {"name": "Brand site", "url": "https://example.com/sample-j/shop", "affiliate_url": ""},
+        {"name": "Amazon", "url": "https://example.com/sample-j/amazon", "affiliate_url": ""}
+      ],
+      "image": null, "flags": [], "notes": ""
+    },
+    {
+      "id": "sample-brand-k-protein-peanut-butter",
+      "brand": "Sample Brand K", "name": "High Protein Peanut Butter, Crunchy", "category": "peanut-butter",
+      "pack_size": "1 kg", "pack_g": 1000, "units": 1, "serving_g": 32,
+      "veg": "veg", "jain": false,
+      "price_inr": 549, "mrp_inr": 699, "price_store": "Amazon", "price_url": "https://example.com/sample-k/price", "price_date": "2026-10-09",
+      "protein_100g": 30, "kcal_100g": null, "protein_serving": 9.6, "kcal_serving": null,
+      "nutrition_url": "https://example.com/sample-k/label", "nutrition_date": "2026-10-09",
+      "stores": [{"name": "Amazon", "url": "https://example.com/sample-k/amazon", "affiliate_url": ""}],
+      "image": null, "flags": ["Energy (kcal) not yet verified from the pack"], "notes": "Protein per 100 kcal will be added once energy is verified."
+    }
+  ]
+}

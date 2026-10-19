@@ -1,0 +1,2323 @@
+{
+ "generated": "2026-10-19",
+ "products": [
+  {
+   "brand": "Yoga Bar",
+   "name": "Power Up Coffee Crush 20g Protein Bar",
+   "category": "bar",
+   "pack_size": "1 x 70 g",
+   "pack_g": 70,
+   "units": 1,
+   "serving_g": 70,
+   "protein_serving": 20.0,
+   "kcal_serving": 255,
+   "protein_100g": 28.57,
+   "kcal_100g": 364.29,
+   "id": "yoga-bar-power-up-coffee-crush-20g-protein-bar",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 125.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://www.yogabars.in/products/power-up-coffee-crush-butter-20g-protein-bar-70g",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabar-coffee-crush-protein-bar-nutrition-label-70g.jpg",
+   "nutrition_page_url": "https://www.yogabars.in/products/power-up-coffee-crush-butter-20g-protein-bar-70g",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://www.yogabars.in/products/power-up-coffee-crush-butter-20g-protein-bar-70g",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 70 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Yoga Bar",
+   "name": "Power Up Choco Peanut Butter 20g Protein Bar (Pack of 5)",
+   "category": "bar",
+   "pack_size": "5 x 70 g",
+   "pack_g": 350,
+   "units": 5,
+   "serving_g": 70,
+   "protein_100g": 28.6,
+   "kcal_100g": 360,
+   "protein_serving": 20.0,
+   "kcal_serving": 252,
+   "id": "yoga-bar-power-up-choco-peanut-butter-20g-protein-bar-pack-of-5",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 375.0,
+   "mrp_inr": 625.0,
+   "price_store": "Brand site",
+   "price_url": "https://www.yogabars.in/products/20g-choco-peanut-butter-protein-bar-pack-of-5",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabar-20g-protein-bar-nutrition-label.jpg",
+   "nutrition_page_url": "https://www.yogabars.in/products/20g-choco-peanut-butter-protein-bar-pack-of-5",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://www.yogabars.in/products/20g-choco-peanut-butter-protein-bar-pack-of-5",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Yoga Bar",
+   "name": "10g Protein Wafer Bar Dark Chocolate (Pack of 10)",
+   "category": "bar",
+   "pack_size": "10 x 40 g",
+   "pack_g": 400,
+   "units": 10,
+   "serving_g": 40,
+   "protein_serving": 10.0,
+   "kcal_serving": 187,
+   "protein_100g": 25.0,
+   "kcal_100g": 467.5,
+   "id": "yoga-bar-10g-protein-wafer-bar-dark-chocolate-pack-of-10",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 399.0,
+   "mrp_inr": 600.0,
+   "price_store": "Brand site",
+   "price_url": "https://www.yogabars.in/products/10g-protein-wafer-bars-dark-chocolate-flavour-pack-of-10",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabars-protein-wafer-bar-dark-chocolate-pack-of-10-back-of-pack-nutrition-facts-ingredients.jpg",
+   "nutrition_page_url": "https://www.yogabars.in/products/10g-protein-wafer-bars-dark-chocolate-flavour-pack-of-10",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://www.yogabars.in/products/10g-protein-wafer-bars-dark-chocolate-flavour-pack-of-10",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 40 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Yoga Bar",
+   "name": "Protein Minis Choco Peanut Butter (Pack of 24)",
+   "category": "bar",
+   "pack_size": "24 x 20 g",
+   "pack_g": 480,
+   "units": 24,
+   "serving_g": 20,
+   "protein_100g": 20.0,
+   "kcal_100g": 397,
+   "protein_serving": 4.0,
+   "kcal_serving": null,
+   "id": "yoga-bar-protein-minis-choco-peanut-butter-pack-of-24",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 349.0,
+   "mrp_inr": 432.0,
+   "price_store": "Brand site",
+   "price_url": "https://www.yogabars.in/products/yogabar-protein-minis-4g-protein-bar-24-bars-choco-peanut-butter",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabar-protein-minis-nutritional-facts.png",
+   "nutrition_page_url": "https://www.yogabars.in/products/yogabar-protein-minis-4g-protein-bar-24-bars-choco-peanut-butter",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://www.yogabars.in/products/yogabar-protein-minis-4g-protein-bar-24-bars-choco-peanut-butter",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Yoga Bar",
+   "name": "26g Protein Shake Double Chocolate (Pack of 6)",
+   "category": "drink-shake",
+   "pack_size": "6 x 250 ml",
+   "pack_g": 1500,
+   "units": 6,
+   "serving_g": 250,
+   "protein_100g": 10.4,
+   "kcal_100g": 88,
+   "protein_serving": 26.0,
+   "kcal_serving": 220,
+   "id": "yoga-bar-26g-protein-shake-double-chocolate-pack-of-6",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 699.0,
+   "mrp_inr": 786.0,
+   "price_store": "Brand site",
+   "price_url": "https://www.yogabars.in/products/26g-protein-shake-double-chocolate",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabar-26g-protein-shake-double-chocolate-nutrition-label-back.jpg",
+   "nutrition_page_url": "https://www.yogabars.in/products/26g-protein-shake-double-chocolate",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://www.yogabars.in/products/26g-protein-shake-double-chocolate",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label image on listing shows the Double Chocolate variant; values are per 100 ml."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Yoga Bar",
+   "name": "ProClean Whey Protein Concentrate",
+   "category": "whey",
+   "pack_size": "1 kg",
+   "pack_g": 1000,
+   "units": 1,
+   "serving_g": 35,
+   "protein_100g": 77.0,
+   "kcal_100g": 384,
+   "protein_serving": 27,
+   "kcal_serving": null,
+   "id": "yoga-bar-proclean-whey-protein-concentrate",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 2599.0,
+   "mrp_inr": 2670.0,
+   "price_store": "Brand site",
+   "price_url": "https://www.yogabars.in/products/proclean-whey-protein-concentrate-1kg",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabar-proclean-whey-nutrition-label..jpg",
+   "nutrition_page_url": "https://www.yogabars.in/products/proclean-whey-protein-concentrate-1kg",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://www.yogabars.in/products/proclean-whey-protein-concentrate-1kg",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Yoga Bar",
+   "name": "26g High Protein Oats Dark Chocolate",
+   "category": "breakfast",
+   "pack_size": "1 kg",
+   "pack_g": 1000,
+   "units": 1,
+   "serving_g": 50,
+   "protein_100g": 26.0,
+   "kcal_100g": 364,
+   "protein_serving": 13.0,
+   "kcal_serving": 182,
+   "id": "yoga-bar-26g-high-protein-oats-dark-chocolate",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 419.0,
+   "mrp_inr": 490.0,
+   "price_store": "Brand site",
+   "price_url": "https://www.yogabars.in/products/26g-high-protein-oats-dark-chocolate",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabar-26g-protein-oats-dark-chocolate-nutrition-facts.jpg",
+   "nutrition_page_url": "https://www.yogabars.in/products/26g-high-protein-oats-dark-chocolate",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://www.yogabars.in/products/26g-high-protein-oats-dark-chocolate",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Yoga Bar",
+   "name": "High Protein Muesli Fruits, Nuts & Seeds",
+   "category": "breakfast",
+   "pack_size": "350 g",
+   "pack_g": 350,
+   "units": 1,
+   "serving_g": 50,
+   "protein_100g": 23.5,
+   "kcal_100g": 403,
+   "protein_serving": 11.8,
+   "kcal_serving": 202,
+   "id": "yoga-bar-high-protein-muesli-fruits-nuts-seeds",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 299.0,
+   "mrp_inr": 390.0,
+   "price_store": "Brand site",
+   "price_url": "https://www.yogabars.in/products/high-protein-muesli-fruits-nuts-seeds",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabar-high-protein-muesli-nutrition-facts-label.jpg",
+   "nutrition_page_url": "https://www.yogabars.in/products/high-protein-muesli-fruits-nuts-seeds",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://www.yogabars.in/products/high-protein-muesli-fruits-nuts-seeds",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Yoga Bar",
+   "name": "Classic Protein Date Minis (10 pcs)",
+   "category": "chips-snacks",
+   "pack_size": "10 x 20 g",
+   "pack_g": 200,
+   "units": 10,
+   "serving_g": 20,
+   "protein_100g": 11.2,
+   "kcal_100g": 474,
+   "protein_serving": 2.2,
+   "kcal_serving": 95,
+   "id": "yoga-bar-classic-protein-date-minis-10-pcs",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 359.0,
+   "mrp_inr": 470.0,
+   "price_store": "Brand site",
+   "price_url": "https://www.yogabars.in/products/classic-protein-date-minis",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabar-protein-date-minis-nutrition-facts-label.jpg",
+   "nutrition_page_url": "https://www.yogabars.in/products/classic-protein-date-minis",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://www.yogabars.in/products/classic-protein-date-minis",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Listed as out of stock on the brand site when checked."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "SuperYou",
+   "name": "20g MEGA Protein Wafer Kesar Pista Badam (Pack of 6)",
+   "category": "bar",
+   "pack_size": "6 x 60 g",
+   "pack_g": 360,
+   "units": 6,
+   "serving_g": 60,
+   "protein_serving": 20,
+   "kcal_serving": 281,
+   "protein_100g": 33.33,
+   "kcal_100g": 468.33,
+   "id": "superyou-20g-mega-protein-wafer-kesar-pista-badam-pack-of-6",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 699.0,
+   "mrp_inr": 750.0,
+   "price_store": "Brand site",
+   "price_url": "https://superyou.in/products/20-mega-protein-wafer-kesar-pista-badam",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/9_20gProtein_NITableD2C.jpg",
+   "nutrition_page_url": "https://superyou.in/products/20-mega-protein-wafer-kesar-pista-badam",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://superyou.in/products/20-mega-protein-wafer-kesar-pista-badam",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 60 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "SuperYou",
+   "name": "Chocolate Protein Wafer (Pack of 10)",
+   "category": "bar",
+   "pack_size": "10 x 40 g",
+   "pack_g": 400,
+   "units": 10,
+   "serving_g": 40,
+   "protein_serving": 10,
+   "kcal_serving": 181.3,
+   "protein_100g": 25.0,
+   "kcal_100g": 453.25,
+   "id": "superyou-chocolate-protein-wafer-pack-of-10",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 499.0,
+   "mrp_inr": 600.0,
+   "price_store": "Brand site",
+   "price_url": "https://superyou.in/products/chocolate-protein-wafer",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/7_NI_Table.png",
+   "nutrition_page_url": "https://superyou.in/products/chocolate-protein-wafer",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://superyou.in/products/chocolate-protein-wafer",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 40 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "SuperYou",
+   "name": "Cheese Protein Wafer (Pack of 10)",
+   "category": "chips-snacks",
+   "pack_size": "10 x 40 g",
+   "pack_g": 400,
+   "units": 10,
+   "serving_g": 40,
+   "protein_serving": 10,
+   "kcal_serving": 179.5,
+   "protein_100g": 25.0,
+   "kcal_100g": 448.75,
+   "id": "superyou-cheese-protein-wafer-pack-of-10",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 499.0,
+   "mrp_inr": 600.0,
+   "price_store": "Brand site",
+   "price_url": "https://superyou.in/products/cheese-protein-wafer",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/7NITable.png",
+   "nutrition_page_url": "https://superyou.in/products/cheese-protein-wafer",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://superyou.in/products/cheese-protein-wafer",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 40 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "SuperYou",
+   "name": "5g Cookies & Cream Mini Protein Wafer (Pack of 10)",
+   "category": "bar",
+   "pack_size": "10 x 20 g",
+   "pack_g": 200,
+   "units": 10,
+   "serving_g": 20,
+   "protein_serving": 5,
+   "kcal_serving": 95,
+   "protein_100g": 25.0,
+   "kcal_100g": 475.0,
+   "id": "superyou-5g-cookies-cream-mini-protein-wafer-pack-of-10",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 269.0,
+   "mrp_inr": 299.0,
+   "price_store": "Brand site",
+   "price_url": "https://superyou.in/products/cookies-and-cream-mini-pack-of-10",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/7_2.png",
+   "nutrition_page_url": "https://superyou.in/products/cookies-and-cream-mini-pack-of-10",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://superyou.in/products/cookies-and-cream-mini-pack-of-10",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 20 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "SuperYou",
+   "name": "Chocolate Fermented Yeast Protein",
+   "category": "whey",
+   "pack_size": "1 kg",
+   "pack_g": 1000,
+   "units": 1,
+   "serving_g": 36,
+   "protein_100g": 67.0,
+   "kcal_100g": 344.63,
+   "protein_serving": 24.12,
+   "kcal_serving": 124.07,
+   "id": "superyou-chocolate-fermented-yeast-protein",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 2349.0,
+   "mrp_inr": 2649.0,
+   "price_store": "Brand site",
+   "price_url": "https://superyou.in/products/chocolate-protein-powder",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/1kg_Chocolate_NI_1.jpg",
+   "nutrition_page_url": "https://superyou.in/products/chocolate-protein-powder",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://superyou.in/products/chocolate-protein-powder",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Plant-based (yeast) protein powder; listed under protein powders."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Epigamia",
+   "name": "Turbo 50g Protein Paneer",
+   "category": "paneer",
+   "pack_size": "200 g",
+   "pack_g": 200,
+   "units": 1,
+   "serving_g": 100,
+   "protein_100g": 25,
+   "kcal_100g": 229,
+   "protein_serving": 25,
+   "kcal_serving": 229,
+   "id": "epigamia-turbo-50g-protein-paneer",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 250.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://epigamia.com/products/turbo-50g-protein-paneer-v-epigamia",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0331/1983/0148/files/01_831dea79-5a62-4f63-b743-0d5872f4bf6e.jpg",
+   "nutrition_page_url": "https://epigamia.com/products/turbo-50g-protein-paneer-v-epigamia",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://epigamia.com/products/turbo-50g-protein-paneer-v-epigamia",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Listed as out of stock on the brand site when checked."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Epigamia",
+   "name": "Turbo High Protein Milk",
+   "category": "drink-shake",
+   "pack_size": "250 ml",
+   "pack_g": 250,
+   "units": 1,
+   "serving_g": 250,
+   "protein_serving": 25,
+   "kcal_serving": 159,
+   "protein_100g": 10.0,
+   "kcal_100g": 63.6,
+   "id": "epigamia-turbo-high-protein-milk",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 125.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://epigamia.com/products/turbo-high-protein-milk-v-epigamia",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0331/1983/0148/files/05_6b488490-2552-476a-9f8b-0cf1cbba59ba.jpg",
+   "nutrition_page_url": "https://epigamia.com/products/turbo-high-protein-milk-v-epigamia",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://epigamia.com/products/turbo-high-protein-milk-v-epigamia",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Listed as out of stock on the brand site when checked.",
+    "Label gives values per 250 ml serving; per-100 ml values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Epigamia",
+   "name": "Turbo 15g Protein Yogurt Mango",
+   "category": "curd-yogurt",
+   "pack_size": "140 g",
+   "pack_g": 140,
+   "units": 1,
+   "serving_g": 140,
+   "protein_serving": 15,
+   "kcal_serving": 98,
+   "protein_100g": 10.71,
+   "kcal_100g": 70.0,
+   "id": "epigamia-turbo-15g-protein-yogurt-mango",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 125.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://epigamia.com/products/turbo-15g-protein-yogurt-mango-v-epigamia",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0331/1983/0148/files/08_26788aa6-ed73-445a-8bbd-8148b995dcbf.jpg",
+   "nutrition_page_url": "https://epigamia.com/products/turbo-15g-protein-yogurt-mango-v-epigamia",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://epigamia.com/products/turbo-15g-protein-yogurt-mango-v-epigamia",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Listed as out of stock on the brand site when checked.",
+    "Label gives values per 140 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Epigamia",
+   "name": "Turbo 30g Protein Milkshake Chocolate (Pack of 4)",
+   "category": "drink-shake",
+   "pack_size": "4 x 250 ml",
+   "pack_g": 1000,
+   "units": 4,
+   "serving_g": 250,
+   "protein_serving": 30,
+   "kcal_serving": 163,
+   "protein_100g": 12.0,
+   "kcal_100g": 65.2,
+   "id": "epigamia-turbo-30g-protein-milkshake-chocolate-pack-of-4",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 561.0,
+   "mrp_inr": 660.0,
+   "price_store": "Brand site",
+   "price_url": "https://epigamia.com/products/turbo-30g-protein-milkshake-chocolate-pack-of-4-v-epigamia",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0331/1983/0148/files/05_3b916ef7-4ce3-413f-8e38-c09b2a71b1d6.jpg",
+   "nutrition_page_url": "https://epigamia.com/products/turbo-30g-protein-milkshake-chocolate-pack-of-4-v-epigamia",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://epigamia.com/products/turbo-30g-protein-milkshake-chocolate-pack-of-4-v-epigamia",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Listed as out of stock on the brand site when checked.",
+    "Label gives values per 250 ml serving; per-100 ml values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Epigamia",
+   "name": "Zero Added Sugar Greek Yogurt Mango",
+   "category": "curd-yogurt",
+   "pack_size": "85 g",
+   "pack_g": 85,
+   "units": 1,
+   "serving_g": 85,
+   "protein_serving": 5.3,
+   "kcal_serving": 63,
+   "protein_100g": 6.24,
+   "kcal_100g": 74.12,
+   "id": "epigamia-zero-added-sugar-greek-yogurt-mango",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 70.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://epigamia.com/products/zero-added-sugar-greek-yogurt-mango-v-epigamia",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0331/1983/0148/files/09_f99b2ff6-7a42-4246-bf47-3dfbdb847191.jpg",
+   "nutrition_page_url": "https://epigamia.com/products/zero-added-sugar-greek-yogurt-mango-v-epigamia",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://epigamia.com/products/zero-added-sugar-greek-yogurt-mango-v-epigamia",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Listed as out of stock on the brand site when checked.",
+    "Label gives values per 85 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "RiteBite Max Protein",
+   "name": "7 Grain Protein Snack Peri Peri",
+   "category": "chips-snacks",
+   "pack_size": "120 g (4 x 30 g servings per label)",
+   "pack_g": 120,
+   "units": 1,
+   "serving_g": 30,
+   "protein_100g": 17.7,
+   "kcal_100g": 439.7,
+   "protein_serving": 5.3,
+   "kcal_serving": 131.9,
+   "id": "ritebite-max-protein-7-grain-protein-snack-peri-peri",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 111.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://maxprotein.in/products/max-protein-peri-peri-chips",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0512/8827/7146/files/Nutri_3.jpg",
+   "nutrition_page_url": "https://maxprotein.in/products/max-protein-peri-peri-chips",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://maxprotein.in/products/max-protein-peri-peri-chips",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Pack weight taken from label (4 servings of 30 g); not stated on the listing.",
+    "Listed as out of stock on the brand site when checked."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "RiteBite Max Protein",
+   "name": "Daily Choco Almond Bar",
+   "category": "bar",
+   "pack_size": "1 x 50 g",
+   "pack_g": 50,
+   "units": 1,
+   "serving_g": 50,
+   "protein_serving": 10.0,
+   "kcal_serving": 179,
+   "protein_100g": 20.0,
+   "kcal_100g": 358.0,
+   "id": "ritebite-max-protein-daily-choco-almond-bar",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 80.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://maxprotein.in/products/max-protein-bar-daily-choco-almond",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0512/8827/7146/files/DailyListingChocoAlmond-1.png",
+   "nutrition_page_url": "https://maxprotein.in/products/max-protein-bar-daily-choco-almond",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://maxprotein.in/products/max-protein-bar-daily-choco-almond",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 50 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "RiteBite Max Protein",
+   "name": "Active Choco Fudge Bar",
+   "category": "bar",
+   "pack_size": "1 x 75 g",
+   "pack_g": 75,
+   "units": 1,
+   "serving_g": 75,
+   "protein_serving": 20.0,
+   "kcal_serving": 313,
+   "protein_100g": 26.67,
+   "kcal_100g": 417.33,
+   "id": "ritebite-max-protein-active-choco-fudge-bar",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 140.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://maxprotein.in/products/max-protein-bar-active-choco-fudge",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0512/8827/7146/files/ChocoFudge-3.jpg",
+   "nutrition_page_url": "https://maxprotein.in/products/max-protein-bar-active-choco-fudge",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://maxprotein.in/products/max-protein-bar-active-choco-fudge",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 75 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "RiteBite Max Protein",
+   "name": "Ultimate Choco Almond Bar",
+   "category": "bar",
+   "pack_size": "1 x 100 g",
+   "pack_g": 100,
+   "units": 1,
+   "serving_g": 100,
+   "protein_serving": 30.0,
+   "kcal_serving": 361,
+   "protein_100g": 30.0,
+   "kcal_100g": 361.0,
+   "id": "ritebite-max-protein-ultimate-choco-almond-bar",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 180.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://maxprotein.in/products/max-protein-bar-ultimate-choco-almond",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0512/8827/7146/files/ChocoAlmond-1.jpg",
+   "nutrition_page_url": "https://maxprotein.in/products/max-protein-bar-ultimate-choco-almond",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://maxprotein.in/products/max-protein-bar-ultimate-choco-almond",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 100 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Supply6",
+   "name": "Protein Wafer Chocolate (Pack of 10)",
+   "category": "bar",
+   "pack_size": "10 x 40 g",
+   "pack_g": 400,
+   "units": 10,
+   "serving_g": 40,
+   "protein_serving": 10.3,
+   "kcal_serving": 182.9,
+   "protein_100g": 25.75,
+   "kcal_100g": 457.25,
+   "id": "supply6-protein-wafer-chocolate-pack-of-10",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 580.0,
+   "mrp_inr": 600.0,
+   "price_store": "Brand site",
+   "price_url": "https://supplysix.com/products/supply6-protein-wafer-chocolate",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0473/8351/1194/files/Chocolate_7.jpg",
+   "nutrition_page_url": "https://supplysix.com/products/supply6-protein-wafer-chocolate",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://supplysix.com/products/supply6-protein-wafer-chocolate",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 40 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Supply6",
+   "name": "Plant Protein Chocolate",
+   "category": "whey",
+   "pack_size": "1 kg",
+   "pack_g": 1000,
+   "units": 1,
+   "serving_g": 35,
+   "protein_100g": 68.5,
+   "kcal_100g": 400.6,
+   "protein_serving": 24,
+   "kcal_serving": 140.2,
+   "id": "supply6-plant-protein-chocolate",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 2250.0,
+   "mrp_inr": 2690.0,
+   "price_store": "Brand site",
+   "price_url": "https://supplysix.com/products/supply6-plant-protein-chocolate-flavour?variant=47073024770271",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0473/8351/1194/files/Artboard_1_copy_2_1f7813b5-09df-4688-8386-e414ce0c360e.png",
+   "nutrition_page_url": "https://supplysix.com/products/supply6-plant-protein-chocolate-flavour?variant=47073024770271",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://supplysix.com/products/supply6-plant-protein-chocolate-flavour?variant=47073024770271",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Plant protein (pea + brown rice); protein on dry basis per label."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Bagrry's",
+   "name": "High Protein Oats",
+   "category": "breakfast",
+   "pack_size": "750 g",
+   "pack_g": 750,
+   "units": 1,
+   "serving_g": 50,
+   "protein_100g": 25.1,
+   "kcal_100g": 381,
+   "protein_serving": null,
+   "kcal_serving": null,
+   "id": "bagrrys-high-protein-oats",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 577.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://bagrrys.com/products/high-protein-oats-25g-protein",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0413/5147/9451/files/4_e8fec10c-ee7f-4239-9ccb-06c038a77fe6.jpg",
+   "nutrition_page_url": "https://bagrrys.com/products/high-protein-oats-25g-protein",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://bagrrys.com/products/high-protein-oats-25g-protein",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Bagrry's",
+   "name": "On-The-Go High Protein Cup Muesli (Pack of 4)",
+   "category": "breakfast",
+   "pack_size": "4 x 70 g",
+   "pack_g": 280,
+   "units": 4,
+   "serving_g": 70,
+   "protein_100g": 28,
+   "kcal_100g": 383,
+   "protein_serving": null,
+   "kcal_serving": null,
+   "id": "bagrrys-on-the-go-high-protein-cup-muesli-pack-of-4",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 396.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://bagrrys.com/products/bagrrys-on-the-go-high-protein-cup-muesli-20g-protein-with-milk-inside-pack-of-4-70g-each",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0413/5147/9451/files/12_e5da585e-5099-4a9f-ba87-b7fef7bedd0d.jpg",
+   "nutrition_page_url": "https://bagrrys.com/products/bagrrys-on-the-go-high-protein-cup-muesli-20g-protein-with-milk-inside-pack-of-4-70g-each",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://bagrrys.com/products/bagrrys-on-the-go-high-protein-cup-muesli-20g-protein-with-milk-inside-pack-of-4-70g-each",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Listed as out of stock on the brand site when checked."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Bagrry's",
+   "name": "Whey Protein Muesli Chocolate Almonds",
+   "category": "breakfast",
+   "pack_size": "500 g",
+   "pack_g": 500,
+   "units": 1,
+   "serving_g": 50,
+   "protein_100g": 20.3,
+   "kcal_100g": 400,
+   "protein_serving": null,
+   "kcal_serving": null,
+   "id": "bagrrys-whey-protein-muesli-chocolate-almonds",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 399.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://bagrrys.com/products/protein-muesli-chocolate",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0413/5147/9451/files/4_f1b4c92d-eda1-4bbb-90ad-10ca4d4862c6.jpg",
+   "nutrition_page_url": "https://bagrrys.com/products/protein-muesli-chocolate",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://bagrrys.com/products/protein-muesli-chocolate",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Too Yumm!",
+   "name": "High Protein Super Oats Masala",
+   "category": "breakfast",
+   "pack_size": "350 g",
+   "pack_g": 350,
+   "units": 1,
+   "serving_g": 50,
+   "protein_100g": 22.2,
+   "kcal_100g": 366,
+   "protein_serving": null,
+   "kcal_serving": null,
+   "id": "too-yumm-high-protein-super-oats-masala",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 199.0,
+   "mrp_inr": 279.0,
+   "price_store": "Brand site",
+   "price_url": "https://tooyumm.com/products/high-protein-super-oats-masala-1",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0792/0553/1901/files/Slide8_10da3b09-ff35-4945-8c07-5de66c08761b.png",
+   "nutrition_page_url": "https://tooyumm.com/products/high-protein-super-oats-masala-1",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://tooyumm.com/products/high-protein-super-oats-masala-1",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Too Yumm!",
+   "name": "Himalayan Salt & Pepper Makhana",
+   "category": "makhana",
+   "pack_size": "50 g",
+   "pack_g": 50,
+   "units": 1,
+   "serving_g": 12,
+   "protein_100g": 7.0,
+   "kcal_100g": 508,
+   "protein_serving": null,
+   "kcal_serving": null,
+   "id": "too-yumm-himalayan-salt-pepper-makhana",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 113.0,
+   "mrp_inr": 150.0,
+   "price_store": "Brand site",
+   "price_url": "https://tooyumm.com/products/himalayan-salt-pepper-makhana",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0792/0553/1901/files/6_8507ba03-4070-4819-a9fc-d1091607718c.jpg",
+   "nutrition_page_url": "https://tooyumm.com/products/himalayan-salt-pepper-makhana",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://tooyumm.com/products/himalayan-salt-pepper-makhana",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Listed as out of stock on the brand site when checked."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Pintola",
+   "name": "High Protein All Natural Peanut Butter Unsweetened (Crunchy)",
+   "category": "peanut-butter",
+   "pack_size": "510 g",
+   "pack_g": 510,
+   "units": 1,
+   "serving_g": 32,
+   "protein_100g": 37,
+   "kcal_100g": 610,
+   "protein_serving": null,
+   "kcal_serving": null,
+   "id": "pintola-high-protein-all-natural-peanut-butter-unsweetened-crunchy",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 382.0,
+   "mrp_inr": 398.0,
+   "price_store": "Brand site",
+   "price_url": "https://pintola.in/products/high-protein-all-natural-peanut-butter-unsweetened?variant=42248710062323",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0538/2137/4655/files/06_05ec6ba6-8a7f-472d-82e7-f5a2b17bb934.png",
+   "nutrition_page_url": "https://pintola.in/products/high-protein-all-natural-peanut-butter-unsweetened?variant=42248710062323",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://pintola.in/products/high-protein-all-natural-peanut-butter-unsweetened?variant=42248710062323",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Listed as out of stock on the brand site when checked."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Pintola",
+   "name": "High Protein Dark Chocolate & Cranberry Muesli",
+   "category": "breakfast",
+   "pack_size": "400 g",
+   "pack_g": 400,
+   "units": 1,
+   "serving_g": 50,
+   "protein_100g": 25,
+   "kcal_100g": 390,
+   "protein_serving": 12.5,
+   "kcal_serving": 195,
+   "id": "pintola-high-protein-dark-chocolate-cranberry-muesli",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 299.0,
+   "mrp_inr": 325.0,
+   "price_store": "Brand site",
+   "price_url": "https://pintola.in/products/high-protein-muesli-dark-chocolate-cranberry-with-brown-sugar-22g-protein",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0538/2137/4655/files/7_28eeaec6-f66a-4f62-872d-29cfe5c8e0c9.jpg",
+   "nutrition_page_url": "https://pintola.in/products/high-protein-muesli-dark-chocolate-cranberry-with-brown-sugar-22g-protein",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://pintola.in/products/high-protein-muesli-dark-chocolate-cranberry-with-brown-sugar-22g-protein",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Listed as out of stock on the brand site when checked."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "MyFitness",
+   "name": "Peanut Butter Natural Unsweetened Crunchy",
+   "category": "peanut-butter",
+   "pack_size": "1.25 kg",
+   "pack_g": 1250,
+   "units": 1,
+   "serving_g": 32,
+   "protein_100g": 31.4,
+   "kcal_100g": 637.3,
+   "protein_serving": 10.1,
+   "kcal_serving": 204,
+   "id": "myfitness-peanut-butter-natural-unsweetened-crunchy",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 499.0,
+   "mrp_inr": 669.0,
+   "price_store": "Brand site",
+   "price_url": "https://myfitness.in/products/myfitness-all-natural-peanut-butter-crunchy",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0440/7921/8842/files/6_7.jpg",
+   "nutrition_page_url": "https://myfitness.in/products/myfitness-all-natural-peanut-butter-crunchy",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://myfitness.in/products/myfitness-all-natural-peanut-butter-crunchy",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "MyFitness",
+   "name": "Peanut Butter Dark Chocolate with Added Whey (Smooth)",
+   "category": "peanut-butter",
+   "pack_size": "510 g",
+   "pack_g": 510,
+   "units": 1,
+   "serving_g": 32,
+   "protein_100g": 30.0,
+   "kcal_100g": 643.5,
+   "protein_serving": 9.6,
+   "kcal_serving": 205.9,
+   "id": "myfitness-peanut-butter-dark-chocolate-with-added-whey-smooth",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 299.0,
+   "mrp_inr": 399.0,
+   "price_store": "Brand site",
+   "price_url": "https://myfitness.in/products/myfitness-olympia-edition-dark-chocolate-peanut-butter-with-added-whey-smooth",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0440/7921/8842/files/6_8.jpg",
+   "nutrition_page_url": "https://myfitness.in/products/myfitness-olympia-edition-dark-chocolate-peanut-butter-with-added-whey-smooth",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://myfitness.in/products/myfitness-olympia-edition-dark-chocolate-peanut-butter-with-added-whey-smooth",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "MyFitness",
+   "name": "Pro.Fitness High Protein Choco Oats",
+   "category": "breakfast",
+   "pack_size": "375 g",
+   "pack_g": 375,
+   "units": 1,
+   "serving_g": 50,
+   "protein_100g": 27.0,
+   "kcal_100g": 410.0,
+   "protein_serving": 13.5,
+   "kcal_serving": 205.0,
+   "id": "myfitness-pro-fitness-high-protein-choco-oats",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 219.0,
+   "mrp_inr": 339.0,
+   "price_store": "Brand site",
+   "price_url": "https://myfitness.in/products/high-protein-oats-900g-27g-protein",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0440/7921/8842/files/2_converted.webp",
+   "nutrition_page_url": "https://myfitness.in/products/high-protein-oats-900g-27g-protein",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://myfitness.in/products/high-protein-oats-900g-27g-protein",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Alpino",
+   "name": "27G High Protein Oats Dark Chocolate",
+   "category": "breakfast",
+   "pack_size": "1 kg",
+   "pack_g": 1000,
+   "units": 1,
+   "serving_g": 40,
+   "protein_100g": 27,
+   "kcal_100g": 375.6,
+   "protein_serving": null,
+   "kcal_serving": null,
+   "id": "alpino-27g-high-protein-oats-dark-chocolate",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 496.0,
+   "mrp_inr": 649.0,
+   "price_store": "Brand site",
+   "price_url": "https://alpino.store/products/high-protein-oats-dark-chocolate-1-kg",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/02bfd3a0.webp",
+   "nutrition_page_url": "https://alpino.store/products/high-protein-oats-dark-chocolate-1-kg",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://alpino.store/products/high-protein-oats-dark-chocolate-1-kg",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Alpino",
+   "name": "Supernatural Peanut Protein Powder Chocolate",
+   "category": "whey",
+   "pack_size": "1 kg",
+   "pack_g": 1000,
+   "units": 1,
+   "serving_g": 36,
+   "protein_serving": 24.44,
+   "kcal_serving": 133.01,
+   "protein_100g": 67.89,
+   "kcal_100g": 369.47,
+   "id": "alpino-supernatural-peanut-protein-powder-chocolate",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 1919.0,
+   "mrp_inr": 2699.0,
+   "price_store": "Brand site",
+   "price_url": "https://alpino.store/products/supernatural-peanut-protein-powder-protein-no-added-sugar-gluten-free-vegan",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04_4e68427b-f79b-4729-a047-447c9be51204.webp",
+   "nutrition_page_url": "https://alpino.store/products/supernatural-peanut-protein-powder-protein-no-added-sugar-gluten-free-vegan",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://alpino.store/products/supernatural-peanut-protein-powder-protein-no-added-sugar-gluten-free-vegan",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Plant (peanut) protein powder; listed under protein powders.",
+    "Label gives values per 36 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Alpino",
+   "name": "High Protein Muesli Cold Coffee",
+   "category": "breakfast",
+   "pack_size": "400 g",
+   "pack_g": 400,
+   "units": 1,
+   "serving_g": 40,
+   "protein_100g": 24,
+   "kcal_100g": 428,
+   "protein_serving": null,
+   "kcal_serving": null,
+   "id": "alpino-high-protein-muesli-cold-coffee",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 299.0,
+   "mrp_inr": 429.0,
+   "price_store": "Brand site",
+   "price_url": "https://alpino.store/products/high-protein-muesli-coffee",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/WhatsApp_Image_2026-05-19_at.webp",
+   "nutrition_page_url": "https://alpino.store/products/high-protein-muesli-coffee",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://alpino.store/products/high-protein-muesli-coffee",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Alpino",
+   "name": "High Protein Dark Chocolate Peanut Butter Crunch",
+   "category": "peanut-butter",
+   "pack_size": "1 kg",
+   "pack_g": 1000,
+   "units": 1,
+   "serving_g": 32,
+   "protein_100g": 32,
+   "kcal_100g": 581.43,
+   "protein_serving": 10.24,
+   "kcal_serving": 186.06,
+   "id": "alpino-high-protein-dark-chocolate-peanut-butter-crunch",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 543.0,
+   "mrp_inr": 679.0,
+   "price_store": "Brand site",
+   "price_url": "https://alpino.store/products/high-protein-dark-chocolate-peanut-butter-crunch",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/01-1_eb67b45c-d28f-4196-9a35-6c55baf228a6.webp",
+   "nutrition_page_url": "https://alpino.store/products/high-protein-dark-chocolate-peanut-butter-crunch",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://alpino.store/products/high-protein-dark-chocolate-peanut-butter-crunch",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Listed as out of stock on the brand site when checked."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "The Health Factory",
+   "name": "Zero Maida Protein Bread",
+   "category": "bread",
+   "pack_size": "250 g (5 x 50 g servings)",
+   "pack_g": 250,
+   "units": 1,
+   "serving_g": 50,
+   "protein_100g": 15.24,
+   "kcal_100g": 241.99,
+   "protein_serving": 7.62,
+   "kcal_serving": 121.0,
+   "id": "the-health-factory-zero-maida-protein-bread",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 85.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://thehealthfactory.in/products/zero-maida-super-fibre-bread-copy",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0555/4300/5393/files/5_9e264f48-5d02-412e-8976-fc8d433ec963.webp",
+   "nutrition_page_url": "https://thehealthfactory.in/products/zero-maida-super-fibre-bread-copy",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://thehealthfactory.in/products/zero-maida-super-fibre-bread-copy",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Pack weight taken from label (5 servings of 50 g)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "The Health Factory",
+   "name": "Zero Maida Super Protein Bread",
+   "category": "bread",
+   "pack_size": "252 g (4.5 x 56 g servings)",
+   "pack_g": 252,
+   "units": 1,
+   "serving_g": 56,
+   "protein_100g": 20.8,
+   "kcal_100g": 285.66,
+   "protein_serving": 11.65,
+   "kcal_serving": 159.97,
+   "id": "the-health-factory-zero-maida-super-protein-bread",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 95.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://thehealthfactory.in/products/zero-maida-super-protein-bread",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0555/4300/5393/files/4_2252d5f1-bc94-4876-92a1-5d1437bfd45e.webp",
+   "nutrition_page_url": "https://thehealthfactory.in/products/zero-maida-super-protein-bread",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://thehealthfactory.in/products/zero-maida-super-protein-bread",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Pack weight taken from label (4.5 servings of 56 g)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "The Health Factory",
+   "name": "Zero Maida Super Protein Bombay Pav",
+   "category": "bread",
+   "pack_size": "4 x 44 g",
+   "pack_g": 176,
+   "units": 4,
+   "serving_g": 44,
+   "protein_100g": 20.39,
+   "kcal_100g": 295.05,
+   "protein_serving": 8.97,
+   "kcal_serving": 129.82,
+   "id": "the-health-factory-zero-maida-super-protein-bombay-pav",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 65.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://thehealthfactory.in/products/zero-maida-super-protein-bombay-pav",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0555/4300/5393/files/4_4f191cba-29a6-452b-9e8f-7068e64e098f.webp",
+   "nutrition_page_url": "https://thehealthfactory.in/products/zero-maida-super-protein-bombay-pav",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://thehealthfactory.in/products/zero-maida-super-protein-bombay-pav",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Pack weight taken from label (4 pav of 44 g)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "The Health Factory",
+   "name": "Zero Maida Super Protein Burger Bun",
+   "category": "bread",
+   "pack_size": "2 x 70 g",
+   "pack_g": 140,
+   "units": 2,
+   "serving_g": 70,
+   "protein_100g": 20.19,
+   "kcal_100g": 283.46,
+   "protein_serving": 14.13,
+   "kcal_serving": 198.42,
+   "id": "the-health-factory-zero-maida-super-protein-burger-bun",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 55.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://thehealthfactory.in/products/zero-maida-super-protein-burger-bun",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0555/4300/5393/files/4_4680c108-9abc-4c40-8e89-5d9c242d26f3.webp",
+   "nutrition_page_url": "https://thehealthfactory.in/products/zero-maida-super-protein-burger-bun",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://thehealthfactory.in/products/zero-maida-super-protein-burger-bun",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Pack weight taken from label (2 buns of 70 g)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Nakpro",
+   "name": "Whey Gold Protein Concentrate Unflavoured",
+   "category": "whey",
+   "pack_size": "500 g",
+   "pack_g": 500,
+   "units": 1,
+   "serving_g": 35,
+   "protein_100g": 80.0,
+   "kcal_100g": 401.0,
+   "protein_serving": 28.0,
+   "kcal_serving": 140.35,
+   "id": "nakpro-whey-gold-protein-concentrate-unflavoured",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 1549.0,
+   "mrp_inr": 2500.0,
+   "price_store": "Brand site",
+   "price_url": "https://nakpro.com/products/whey-gold-protein-concentrate?variant=41341789012048",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/gold-03_f824dcde-0067-40a7-b7e2-285b784efbe0.png",
+   "nutrition_page_url": "https://nakpro.com/products/whey-gold-protein-concentrate?variant=41341789012048",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://nakpro.com/products/whey-gold-protein-concentrate?variant=41341789012048",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Protein on dry basis per label."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Nakpro",
+   "name": "Platinum Raw Whey Protein Isolate Unflavoured",
+   "category": "whey",
+   "pack_size": "500 g",
+   "pack_g": 500,
+   "units": 1,
+   "serving_g": 33,
+   "protein_100g": 90.0,
+   "kcal_100g": 368.0,
+   "protein_serving": 29.7,
+   "kcal_serving": 121.44,
+   "id": "nakpro-platinum-raw-whey-protein-isolate-unflavoured",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 2274.0,
+   "mrp_inr": 3700.0,
+   "price_store": "Brand site",
+   "price_url": "https://nakpro.com/products/raw-platinum-whey-protein-isolate?variant=41989029822544",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0237/4497/0832/products/3rdWHEYPLATINUM1kg.jpg",
+   "nutrition_page_url": "https://nakpro.com/products/raw-platinum-whey-protein-isolate?variant=41989029822544",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://nakpro.com/products/raw-platinum-whey-protein-isolate?variant=41989029822544",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Protein on dry basis per label."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "AS-IT-IS Nutrition",
+   "name": "ONE Fermented Yeast Protein Unflavoured",
+   "category": "whey",
+   "pack_size": "500 g",
+   "pack_g": 500,
+   "units": 1,
+   "serving_g": 40,
+   "protein_serving": 32,
+   "kcal_serving": 148,
+   "protein_100g": 80.0,
+   "kcal_100g": 370.0,
+   "id": "as-it-is-nutrition-one-fermented-yeast-protein-unflavoured",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 1085.0,
+   "mrp_inr": 1697.0,
+   "price_store": "Brand site",
+   "price_url": "https://asitisnutrition.com/products/as-it-is-one-fermented-yeast-protein-unflavoured-unsweetened",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/AS-IT-ISONEYeastProteinRPDSide_1.jpg",
+   "nutrition_page_url": "https://asitisnutrition.com/products/as-it-is-one-fermented-yeast-protein-unflavoured-unsweetened",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://asitisnutrition.com/products/as-it-is-one-fermented-yeast-protein-unflavoured-unsweetened",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Plant-based (yeast) protein powder; listed under protein powders.",
+    "Label gives values per 40 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "AS-IT-IS Nutrition",
+   "name": "ATOM Whey Protein XL",
+   "category": "whey",
+   "pack_size": "1 kg",
+   "pack_g": 1000,
+   "units": 1,
+   "serving_g": 36,
+   "protein_serving": 27,
+   "kcal_serving": 139,
+   "protein_100g": 75.0,
+   "kcal_100g": 386.11,
+   "id": "as-it-is-nutrition-atom-whey-protein-xl",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 2471.0,
+   "mrp_inr": 3861.0,
+   "price_store": "Brand site",
+   "price_url": "https://asitisnutrition.com/products/atom-whey-protein-xl-with-digezyme®-fermented-yeast-protein",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_WHEY_PROTEIN_XL_2KG_COMMON_POCUH_DRC_SIDE_GUSSET_IMAGE.jpg",
+   "nutrition_page_url": "https://asitisnutrition.com/products/atom-whey-protein-xl-with-digezyme®-fermented-yeast-protein",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://asitisnutrition.com/products/atom-whey-protein-xl-with-digezyme®-fermented-yeast-protein",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 36 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "BigMuscles Nutrition",
+   "name": "Essential Whey Dutch Chocolate",
+   "category": "whey",
+   "pack_size": "1 kg",
+   "pack_g": 1000,
+   "units": 1,
+   "serving_g": 48,
+   "protein_serving": 24,
+   "kcal_serving": 188,
+   "protein_100g": 50.0,
+   "kcal_100g": 391.67,
+   "id": "bigmuscles-nutrition-essential-whey-dutch-chocolate",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 1599.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://bigmusclesnutrition.com/products/essential-whey-1",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0291/3743/6771/files/Essential-Whey-1kg-back.jpg",
+   "nutrition_page_url": "https://bigmusclesnutrition.com/products/essential-whey-1",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://bigmusclesnutrition.com/products/essential-whey-1",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 48 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "BigMuscles Nutrition",
+   "name": "Impact Whey Belgian Chocolate",
+   "category": "whey",
+   "pack_size": "1 kg",
+   "pack_g": 1000,
+   "units": 1,
+   "serving_g": 45,
+   "protein_100g": 53.3,
+   "kcal_100g": 389.8,
+   "protein_serving": 24,
+   "kcal_serving": 175.4,
+   "id": "bigmuscles-nutrition-impact-whey-belgian-chocolate",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 1199.0,
+   "mrp_inr": 1799.0,
+   "price_store": "Brand site",
+   "price_url": "https://bigmusclesnutrition.com/products/impact-whey-clean-recovery-better-absorption-everyday-performance-copy",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0291/3743/6771/files/BACK_c0835147-4a5a-4ff9-b4ce-0ada436e8fb8.jpg",
+   "nutrition_page_url": "https://bigmusclesnutrition.com/products/impact-whey-clean-recovery-better-absorption-everyday-performance-copy",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://bigmusclesnutrition.com/products/impact-whey-clean-recovery-better-absorption-everyday-performance-copy",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Protein on dry basis per label."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "The Eat Better Co.",
+   "name": "Protein Chips Pudina Punch (6 packs)",
+   "category": "chips-snacks",
+   "pack_size": "6 packs (weight per pack not stated on listing)",
+   "pack_g": null,
+   "units": 6,
+   "serving_g": 10,
+   "protein_100g": 22.89,
+   "kcal_100g": 440.23,
+   "protein_serving": 12,
+   "kcal_serving": null,
+   "id": "the-eat-better-co-protein-chips-pudina-punch-6-packs",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 240.0,
+   "mrp_inr": 300.0,
+   "price_store": "Brand site",
+   "price_url": "https://eatbetterco.com/products/protein-chips-pudina-punch?variant=53140710687037",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0272/5606/2025/files/Artboard8_3ca14554-7821-4be1-899a-c14b58a7990e.jpg",
+   "nutrition_page_url": "https://eatbetterco.com/products/protein-chips-pudina-punch?variant=53140710687037",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://eatbetterco.com/products/protein-chips-pudina-punch?variant=53140710687037",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Pack weight not stated on the listing. Protein per pack (12 g) is the figure in the brand's product description; ₹ per 10 g protein uses it."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "The Eat Better Co.",
+   "name": "Protein Bhujia Chilli Lime (4 packs)",
+   "category": "chips-snacks",
+   "pack_size": "4 packs (weight per pack not stated on listing)",
+   "pack_g": null,
+   "units": 4,
+   "serving_g": 10,
+   "protein_100g": 15.48,
+   "kcal_100g": 512.37,
+   "protein_serving": null,
+   "kcal_serving": null,
+   "id": "the-eat-better-co-protein-bhujia-chilli-lime-4-packs",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 289.0,
+   "mrp_inr": 316.0,
+   "price_store": "Brand site",
+   "price_url": "https://eatbetterco.com/products/protien-bhujia-chilli-lime?variant=53148306506045",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0272/5606/2025/files/Artboard8_58eeff29-038d-4199-ba53-c58236385592.jpg",
+   "nutrition_page_url": "https://eatbetterco.com/products/protien-bhujia-chilli-lime?variant=53148306506045",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://eatbetterco.com/products/protien-bhujia-chilli-lime?variant=53148306506045",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Pack weight not stated on the listing, so ₹ per 10 g protein is not calculated."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Open Secret",
+   "name": "High Protein Rusk Elaichi",
+   "category": "bread",
+   "pack_size": "80 g",
+   "pack_g": 80,
+   "units": 1,
+   "serving_g": 20,
+   "protein_serving": 2.4,
+   "kcal_serving": 79.0,
+   "protein_100g": 12.0,
+   "kcal_100g": 395.0,
+   "id": "open-secret-high-protein-rusk-elaichi",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 49.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://opensecret.in/products/open-secret-high-protein-rusk-elaichi-80g",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0629/7252/6778/files/7.NItable.jpg",
+   "nutrition_page_url": "https://opensecret.in/products/open-secret-high-protein-rusk-elaichi-80g",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://opensecret.in/products/open-secret-high-protein-rusk-elaichi-80g",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 20 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Open Secret",
+   "name": "Premium Makhana (Plain)",
+   "category": "makhana",
+   "pack_size": "200 g",
+   "pack_g": 200,
+   "units": 1,
+   "serving_g": 20,
+   "protein_100g": 9.7,
+   "kcal_100g": 350.0,
+   "protein_serving": 1.94,
+   "kcal_serving": 70.0,
+   "id": "open-secret-premium-makhana-plain",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 399.0,
+   "mrp_inr": 549.0,
+   "price_store": "Brand site",
+   "price_url": "https://opensecret.in/products/open-secret-premium-makhana",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0629/7252/6778/files/makhana_plain_website_11_june_2024_2.jpg",
+   "nutrition_page_url": "https://opensecret.in/products/open-secret-premium-makhana",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://opensecret.in/products/open-secret-premium-makhana",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Open Secret",
+   "name": "DailyWHEY+ Whey + Plant Protein",
+   "category": "whey",
+   "pack_size": "500 g",
+   "pack_g": 500,
+   "units": 1,
+   "serving_g": 35,
+   "protein_serving": 24.2,
+   "kcal_serving": 131.0,
+   "protein_100g": 69.14,
+   "kcal_100g": 374.29,
+   "id": "open-secret-dailywhey-whey-plant-protein",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 899.0,
+   "mrp_inr": 1999.0,
+   "price_store": "Brand site",
+   "price_url": "https://opensecret.in/products/daily-whey-blend-of-whey-plant-protein-500gm",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0629/7252/6778/files/DailyWHEY__500g_BOP.png",
+   "nutrition_page_url": "https://opensecret.in/products/daily-whey-blend-of-whey-plant-protein-500gm",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://opensecret.in/products/daily-whey-blend-of-whey-plant-protein-500gm",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Listed as out of stock on the brand site when checked.",
+    "Label gives values per 35 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Eat Anytime",
+   "name": "Chocolate Protein Bar (30 bars)",
+   "category": "bar",
+   "pack_size": "30 x 40 g",
+   "pack_g": 1200,
+   "units": 30,
+   "serving_g": 40,
+   "protein_100g": 27.5,
+   "kcal_100g": 480.1,
+   "protein_serving": 11.0,
+   "kcal_serving": 192.04,
+   "id": "eat-anytime-chocolate-protein-bar-30-bars",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 1399.0,
+   "mrp_inr": 1950.0,
+   "price_store": "Brand site",
+   "price_url": "https://eatanytime.in/products/chocolate-protein-bar-no-added-sugar-10g-protein-per-bar-gut-friendly-low-calorie?variant=46744512888993",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0310/9729/0885/files/Artboard8_d4e483b1-9b6b-44cc-8f2d-9273c6a7545f.png",
+   "nutrition_page_url": "https://eatanytime.in/products/chocolate-protein-bar-no-added-sugar-10g-protein-per-bar-gut-friendly-low-calorie?variant=46744512888993",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://eatanytime.in/products/chocolate-protein-bar-no-added-sugar-10g-protein-per-bar-gut-friendly-low-calorie?variant=46744512888993",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Listed as out of stock on the brand site when checked."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Eat Anytime",
+   "name": "Peri Peri Protein Chips (Pack of 3 jars)",
+   "category": "chips-snacks",
+   "pack_size": "3 x 150 g",
+   "pack_g": 450,
+   "units": 3,
+   "serving_g": 37.5,
+   "protein_100g": 26.5,
+   "kcal_100g": 424.0,
+   "protein_serving": 9.94,
+   "kcal_serving": 159.0,
+   "id": "eat-anytime-peri-peri-protein-chips-pack-of-3-jars",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 499.0,
+   "mrp_inr": 1197.0,
+   "price_store": "Brand site",
+   "price_url": "https://eatanytime.in/products/peri-peri-protein-chips-40-grams-protein?variant=45816946819233",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0310/9729/0885/files/Peri_Peri_Protein_Chips_07.png",
+   "nutrition_page_url": "https://eatanytime.in/products/peri-peri-protein-chips-40-grams-protein?variant=45816946819233",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://eatanytime.in/products/peri-peri-protein-chips-40-grams-protein?variant=45816946819233",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Eat Anytime",
+   "name": "Salt & Pepper Makhana",
+   "category": "makhana",
+   "pack_size": "80 g (8 x 10 g servings)",
+   "pack_g": 80,
+   "units": 1,
+   "serving_g": 10,
+   "protein_100g": 9.51,
+   "kcal_100g": 467.2,
+   "protein_serving": null,
+   "kcal_serving": null,
+   "id": "eat-anytime-salt-pepper-makhana",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 245.0,
+   "mrp_inr": 349.0,
+   "price_store": "Brand site",
+   "price_url": "https://eatanytime.in/products/salt-pepper-makhana",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0310/9729/0885/files/Artboard6_4184aa4e-e350-4599-be43-abbdc28774ba.png",
+   "nutrition_page_url": "https://eatanytime.in/products/salt-pepper-makhana",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://eatanytime.in/products/salt-pepper-makhana",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Pack weight taken from label (8 servings of 10 g)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "The Whole Truth",
+   "name": "Double Cocoa Pro Protein Bar (Box of 5)",
+   "category": "bar",
+   "pack_size": "5 x 67 g",
+   "pack_g": 335,
+   "units": 5,
+   "serving_g": 67,
+   "protein_100g": null,
+   "kcal_100g": null,
+   "protein_serving": 20.3,
+   "kcal_serving": 336.6,
+   "id": "the-whole-truth-double-cocoa-pro-protein-bar-box-of-5",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 995.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://thewholetruthfoods.com/products/high-protein-double-cocoa-box-of-5",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://thewholetruthfoods.com/products/high-protein-double-cocoa-box-of-5",
+   "nutrition_page_url": "https://thewholetruthfoods.com/products/high-protein-double-cocoa-box-of-5",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://thewholetruthfoods.com/products/high-protein-double-cocoa-box-of-5",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Nutrition taken from the nutrition data published on the brand's product page (per bar, as listed); label image not separately checked."
+   ],
+   "notes": ""
+  },
+  {
+   "brand": "The Whole Truth",
+   "name": "Peanut Cocoa Pro Protein Bar (Box of 5)",
+   "category": "bar",
+   "pack_size": "5 x 67 g",
+   "pack_g": 335,
+   "units": 5,
+   "serving_g": 67,
+   "protein_100g": null,
+   "kcal_100g": null,
+   "protein_serving": 20.5,
+   "kcal_serving": 347.8,
+   "id": "the-whole-truth-peanut-cocoa-pro-protein-bar-box-of-5",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 995.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://thewholetruthfoods.com/products/high-protein-peanut-cocoa-box-of-5",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://thewholetruthfoods.com/products/high-protein-peanut-cocoa-box-of-5",
+   "nutrition_page_url": "https://thewholetruthfoods.com/products/high-protein-peanut-cocoa-box-of-5",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://thewholetruthfoods.com/products/high-protein-peanut-cocoa-box-of-5",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Nutrition taken from the nutrition data published on the brand's product page (per bar, as listed); label image not separately checked."
+   ],
+   "notes": ""
+  },
+  {
+   "brand": "The Whole Truth",
+   "name": "Coffee Cocoa Pro Protein Bar (Box of 5)",
+   "category": "bar",
+   "pack_size": "5 x 67 g",
+   "pack_g": 335,
+   "units": 5,
+   "serving_g": 67,
+   "protein_100g": null,
+   "kcal_100g": null,
+   "protein_serving": 20.3,
+   "kcal_serving": 341.7,
+   "id": "the-whole-truth-coffee-cocoa-pro-protein-bar-box-of-5",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 995.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://thewholetruthfoods.com/products/high-protein-coffee-cocoa-box-of-5",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://thewholetruthfoods.com/products/high-protein-coffee-cocoa-box-of-5",
+   "nutrition_page_url": "https://thewholetruthfoods.com/products/high-protein-coffee-cocoa-box-of-5",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://thewholetruthfoods.com/products/high-protein-coffee-cocoa-box-of-5",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Nutrition taken from the nutrition data published on the brand's product page (per bar, as listed); label image not separately checked."
+   ],
+   "notes": ""
+  },
+  {
+   "brand": "The Whole Truth",
+   "name": "Hazelnut Cocoa Pro Protein Bar (Box of 5)",
+   "category": "bar",
+   "pack_size": "5 x 67 g",
+   "pack_g": 335,
+   "units": 5,
+   "serving_g": 67,
+   "protein_100g": null,
+   "kcal_100g": null,
+   "protein_serving": 21.0,
+   "kcal_serving": 344.0,
+   "id": "the-whole-truth-hazelnut-cocoa-pro-protein-bar-box-of-5",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 1245.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://thewholetruthfoods.com/products/hazelnut-cocoa-pro-box-of-5",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://thewholetruthfoods.com/products/hazelnut-cocoa-pro-box-of-5",
+   "nutrition_page_url": "https://thewholetruthfoods.com/products/hazelnut-cocoa-pro-box-of-5",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://thewholetruthfoods.com/products/hazelnut-cocoa-pro-box-of-5",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Nutrition taken from the nutrition data published on the brand's product page (per bar, as listed); label image not separately checked."
+   ],
+   "notes": ""
+  },
+  {
+   "brand": "The Whole Truth",
+   "name": "Double Cocoa Protein Bar (Box of 5)",
+   "category": "bar",
+   "pack_size": "5 x 52 g",
+   "pack_g": 260,
+   "units": 5,
+   "serving_g": 52,
+   "protein_100g": null,
+   "kcal_100g": null,
+   "protein_serving": 13.3,
+   "kcal_serving": 255.8,
+   "id": "the-whole-truth-double-cocoa-protein-bar-box-of-5",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 650.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://thewholetruthfoods.com/products/double-cocoa",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://thewholetruthfoods.com/products/double-cocoa",
+   "nutrition_page_url": "https://thewholetruthfoods.com/products/double-cocoa",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://thewholetruthfoods.com/products/double-cocoa",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Nutrition taken from the nutrition data published on the brand's product page (per bar, as listed); label image not separately checked."
+   ],
+   "notes": ""
+  },
+  {
+   "brand": "The Whole Truth",
+   "name": "Coffee Cocoa Protein Bar (Box of 5)",
+   "category": "bar",
+   "pack_size": "5 x 52 g",
+   "pack_g": 260,
+   "units": 5,
+   "serving_g": 52,
+   "protein_100g": null,
+   "kcal_100g": null,
+   "protein_serving": 14.3,
+   "kcal_serving": 245.4,
+   "id": "the-whole-truth-coffee-cocoa-protein-bar-box-of-5",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 650.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://thewholetruthfoods.com/products/coffee-cocoa",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://thewholetruthfoods.com/products/coffee-cocoa",
+   "nutrition_page_url": "https://thewholetruthfoods.com/products/coffee-cocoa",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://thewholetruthfoods.com/products/coffee-cocoa",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Nutrition taken from the nutrition data published on the brand's product page (per bar, as listed); label image not separately checked."
+   ],
+   "notes": ""
+  },
+  {
+   "brand": "The Whole Truth",
+   "name": "Peanut Cocoa Protein Bar (Box of 8)",
+   "category": "bar",
+   "pack_size": "8 x 52 g",
+   "pack_g": 416,
+   "units": 8,
+   "serving_g": 52,
+   "protein_100g": null,
+   "kcal_100g": null,
+   "protein_serving": 15.0,
+   "kcal_serving": 243.9,
+   "id": "the-whole-truth-peanut-cocoa-protein-bar-box-of-8",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 1040.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://thewholetruthfoods.com/products/peanut-cocoa",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://thewholetruthfoods.com/products/peanut-cocoa",
+   "nutrition_page_url": "https://thewholetruthfoods.com/products/peanut-cocoa",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://thewholetruthfoods.com/products/peanut-cocoa",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Nutrition taken from the nutrition data published on the brand's product page (per bar, as listed); label image not separately checked."
+   ],
+   "notes": ""
+  },
+  {
+   "brand": "The Whole Truth",
+   "name": "Peanut Butter Protein Bar (Box of 8)",
+   "category": "bar",
+   "pack_size": "8 x 52 g",
+   "pack_g": 416,
+   "units": 8,
+   "serving_g": 52,
+   "protein_100g": null,
+   "kcal_100g": null,
+   "protein_serving": 13.0,
+   "kcal_serving": 258.9,
+   "id": "the-whole-truth-peanut-butter-protein-bar-box-of-8",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 1040.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://thewholetruthfoods.com/products/peanut-butter",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://thewholetruthfoods.com/products/peanut-butter",
+   "nutrition_page_url": "https://thewholetruthfoods.com/products/peanut-butter",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://thewholetruthfoods.com/products/peanut-butter",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Nutrition taken from the nutrition data published on the brand's product page (per bar, as listed); label image not separately checked."
+   ],
+   "notes": ""
+  }
+ ]
+}

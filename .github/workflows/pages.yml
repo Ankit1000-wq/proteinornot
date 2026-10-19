@@ -1,0 +1,49 @@
+name: Build and deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      # Base URL is a build setting. Set the repo variable SITE_URL to https://proteinornot.in
+      # once the custom domain is live; until then the project-page URL is used.
+      SITE_URL: ${{ vars.SITE_URL || 'https://ankit1000-wq.github.io/proteinornot' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Build site (renders OG images with the runner's Google Chrome)
+        run: |
+          echo "Building for $SITE_URL"
+          CHROME_PATH="$(command -v google-chrome || command -v google-chrome-stable)" node build.mjs
+          test -f dist/og/site.png
+          if [ -n "${{ vars.CUSTOM_DOMAIN }}" ]; then echo "${{ vars.CUSTOM_DOMAIN }}" > dist/CNAME; fi
+          touch dist/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

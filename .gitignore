@@ -1,0 +1,11 @@
+# build output (built in CI)
+dist/
+# scratch / local-only
+design/check-*.png
+design/claude-run.log
+research/
+node_modules/
+*.log
+.DS_Store
+.env
+.env.*
