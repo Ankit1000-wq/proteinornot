@@ -2318,6 +2318,1788 @@
     "Nutrition taken from the nutrition data published on the brand's product page (per bar, as listed); label image not separately checked."
    ],
    "notes": ""
+  },
+  {
+   "brand": "RiteBite Max Protein",
+   "name": "7 Grain Protein Snack Chinese Manchurian",
+   "category": "chips-snacks",
+   "pack_size": "120 g (4 x 30 g servings per label)",
+   "pack_g": 120,
+   "units": 1,
+   "serving_g": 30,
+   "protein_100g": 17.6,
+   "kcal_100g": 435.5,
+   "protein_serving": 5.3,
+   "kcal_serving": 130.7,
+   "id": "ritebite-max-protein-7-grain-protein-snack-chinese-manchurian",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 111.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://maxprotein.in/products/max-protein-chinese-manchurian-chips",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0512/8827/7146/files/Nutri.jpg",
+   "nutrition_page_url": "https://maxprotein.in/products/max-protein-chinese-manchurian-chips",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://maxprotein.in/products/max-protein-chinese-manchurian-chips",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Pack weight taken from label (4 servings of 30 g); not stated on the listing."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "RiteBite Max Protein",
+   "name": "7 Grain Protein Snack Desi Masala",
+   "category": "chips-snacks",
+   "pack_size": "120 g (4 x 30 g servings per label)",
+   "pack_g": 120,
+   "units": 1,
+   "serving_g": 30,
+   "protein_100g": 17.7,
+   "kcal_100g": 439.7,
+   "protein_serving": 5.3,
+   "kcal_serving": 131.9,
+   "id": "ritebite-max-protein-7-grain-protein-snack-desi-masala",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 111.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://maxprotein.in/products/desi-masala-chips-by-max-protein",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0512/8827/7146/files/Nutri_2.jpg",
+   "nutrition_page_url": "https://maxprotein.in/products/desi-masala-chips-by-max-protein",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://maxprotein.in/products/desi-masala-chips-by-max-protein",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Pack weight taken from label (4 servings of 30 g); not stated on the listing."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "RiteBite Max Protein",
+   "name": "Active Peanut Butter Bar",
+   "category": "bar",
+   "pack_size": "1 x 70 g",
+   "pack_g": 70,
+   "units": 1,
+   "serving_g": 70,
+   "protein_serving": 20.0,
+   "kcal_serving": 299,
+   "protein_100g": 28.57,
+   "kcal_100g": 427.14,
+   "id": "ritebite-max-protein-active-peanut-butter-bar",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 140.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://maxprotein.in/products/max-protein-bar-active-peanut-butter-bar",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0512/8827/7146/files/PeanutButter-3.jpg",
+   "nutrition_page_url": "https://maxprotein.in/products/max-protein-bar-active-peanut-butter-bar",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://maxprotein.in/products/max-protein-bar-active-peanut-butter-bar",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 70 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Yoga Bar",
+   "name": "26g Protein Shake Cold Coffee (Pack of 6)",
+   "category": "drink-shake",
+   "pack_size": "6 x 250 ml",
+   "pack_g": 1500,
+   "units": 6,
+   "serving_g": 250,
+   "protein_100g": 10.4,
+   "kcal_100g": 88,
+   "protein_serving": 26.0,
+   "kcal_serving": 220,
+   "id": "yoga-bar-26g-protein-shake-cold-coffee-pack-of-6",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 699.0,
+   "mrp_inr": 786.0,
+   "price_store": "Brand site",
+   "price_url": "https://www.yogabars.in/products/26g-protein-shake-cold-coffee-pack-of-6?variant=44081575395500",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0267/5245/files/26g-protein-shake-cold-coffee-nutritional-facts-table.jpg",
+   "nutrition_page_url": "https://www.yogabars.in/products/26g-protein-shake-cold-coffee-pack-of-6?variant=44081575395500",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://www.yogabars.in/products/26g-protein-shake-cold-coffee-pack-of-6?variant=44081575395500",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "The label image on this listing does not print the flavour name; values are per 100 ml."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Yoga Bar",
+   "name": "ProClean Plant Protein Chocolate",
+   "category": "whey",
+   "pack_size": "500 g",
+   "pack_g": 500,
+   "units": 1,
+   "serving_g": 38,
+   "protein_100g": 66.5,
+   "kcal_100g": 403,
+   "protein_serving": 25.3,
+   "kcal_serving": 153,
+   "id": "yoga-bar-proclean-plant-protein-chocolate",
+   "veg": "veg",
+   "jain": false,
+   "price_inr": 699.0,
+   "mrp_inr": 1645.0,
+   "price_store": "Brand site",
+   "price_url": "https://www.yogabars.in/products/proclean-plantprotein-chocolate?variant=45111136813228",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabar-proclean-chocolate-plant-protein-back-of-pack.png",
+   "nutrition_page_url": "https://www.yogabars.in/products/proclean-plantprotein-chocolate?variant=45111136813228",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://www.yogabars.in/products/proclean-plantprotein-chocolate?variant=45111136813228",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Plant protein (pea + rice); listed under protein powders.",
+    "Jain: ingredient list includes ginger (digestive herb blend)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "SuperYou",
+   "name": "Strawberry Crème Protein Wafer (Pack of 10)",
+   "category": "bar",
+   "pack_size": "10 x 40 g",
+   "pack_g": 400,
+   "units": 10,
+   "serving_g": 40,
+   "protein_serving": 10,
+   "kcal_serving": 178.6,
+   "protein_100g": 25.0,
+   "kcal_100g": 446.5,
+   "id": "superyou-strawberry-creme-protein-wafer-pack-of-10",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 499.0,
+   "mrp_inr": 600.0,
+   "price_store": "Brand site",
+   "price_url": "https://superyou.in/products/strawberry-creme-protein-wafer",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/7_NI_Table_1.png",
+   "nutrition_page_url": "https://superyou.in/products/strawberry-creme-protein-wafer",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://superyou.in/products/strawberry-creme-protein-wafer",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 40 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "SuperYou",
+   "name": "Choco Peanut Butter Protein Wafer (Pack of 10)",
+   "category": "bar",
+   "pack_size": "10 x 40 g",
+   "pack_g": 400,
+   "units": 10,
+   "serving_g": 40,
+   "protein_serving": 10,
+   "kcal_serving": 182.2,
+   "protein_100g": 25.0,
+   "kcal_100g": 455.5,
+   "id": "superyou-choco-peanut-butter-protein-wafer-pack-of-10",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 499.0,
+   "mrp_inr": 600.0,
+   "price_store": "Brand site",
+   "price_url": "https://superyou.in/products/choco-peanut-butter-protein-wafer",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/7_NI_Table_2.png",
+   "nutrition_page_url": "https://superyou.in/products/choco-peanut-butter-protein-wafer",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://superyou.in/products/choco-peanut-butter-protein-wafer",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 40 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "SuperYou",
+   "name": "20g Mega Protein Wafer Cranberry Crunch (Pack of 6)",
+   "category": "bar",
+   "pack_size": "6 x 60 g",
+   "pack_g": 360,
+   "units": 6,
+   "serving_g": 60,
+   "protein_serving": 20,
+   "kcal_serving": 284,
+   "protein_100g": 33.33,
+   "kcal_100g": 473.33,
+   "id": "superyou-20g-mega-protein-wafer-cranberry-crunch-pack-of-6",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 699.0,
+   "mrp_inr": 750.0,
+   "price_store": "Brand site",
+   "price_url": "https://superyou.in/products/20g-mega-protein-cranberry-crunch",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/9_20gProtein_NITable.png",
+   "nutrition_page_url": "https://superyou.in/products/20g-mega-protein-cranberry-crunch",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://superyou.in/products/20g-mega-protein-cranberry-crunch",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 60 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "SuperYou",
+   "name": "20g Mega Protein Wafer Nutty Chocolate (Pack of 6)",
+   "category": "bar",
+   "pack_size": "6 x 60 g",
+   "pack_g": 360,
+   "units": 6,
+   "serving_g": 60,
+   "protein_serving": 20,
+   "kcal_serving": 281,
+   "protein_100g": 33.33,
+   "kcal_100g": 468.33,
+   "id": "superyou-20g-mega-protein-wafer-nutty-chocolate-pack-of-6",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 649.0,
+   "mrp_inr": 720.0,
+   "price_store": "Brand site",
+   "price_url": "https://superyou.in/products/20g-mega-protein-wafer",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/9_20gProtein_NITable.jpg",
+   "nutrition_page_url": "https://superyou.in/products/20g-mega-protein-wafer",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://superyou.in/products/20g-mega-protein-wafer",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 60 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "SuperYou",
+   "name": "5g Choco Hazelnut Mini Protein Wafer (Pack of 10)",
+   "category": "bar",
+   "pack_size": "10 x 20 g",
+   "pack_g": 200,
+   "units": 10,
+   "serving_g": 20,
+   "protein_serving": 5,
+   "kcal_serving": 91,
+   "protein_100g": 25.0,
+   "kcal_100g": 455.0,
+   "id": "superyou-5g-choco-hazelnut-mini-protein-wafer-pack-of-10",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 269.0,
+   "mrp_inr": 299.0,
+   "price_store": "Brand site",
+   "price_url": "https://superyou.in/products/5g-choco-hazelnut-mini-protein-wafer-pack-of-10",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/7_1.png",
+   "nutrition_page_url": "https://superyou.in/products/5g-choco-hazelnut-mini-protein-wafer-pack-of-10",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://superyou.in/products/5g-choco-hazelnut-mini-protein-wafer-pack-of-10",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 20 g serving; per-100 g values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "SuperYou",
+   "name": "Unflavoured Fermented Yeast Protein",
+   "category": "whey",
+   "pack_size": "1 kg",
+   "pack_g": 1000,
+   "units": 1,
+   "serving_g": null,
+   "protein_100g": 81.9,
+   "kcal_100g": 405.98,
+   "protein_serving": null,
+   "kcal_serving": null,
+   "id": "superyou-unflavoured-fermented-yeast-protein",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 2099.0,
+   "mrp_inr": 2549.0,
+   "price_store": "Brand site",
+   "price_url": "https://superyou.in/products/unflavoured-1-kg-fermented-yeast-protein",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/Artboard3_6.jpg",
+   "nutrition_page_url": "https://superyou.in/products/unflavoured-1-kg-fermented-yeast-protein",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://superyou.in/products/unflavoured-1-kg-fermented-yeast-protein",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Plant-based (yeast) protein powder; listed under protein powders.",
+    "The label shows two different serving sizes (33 g and 36 g); only the per-100 g values are used here."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Supply6",
+   "name": "Protein Wafer Cookies and Cream (Pack of 10)",
+   "category": "bar",
+   "pack_size": "10 x 40 g",
+   "pack_g": 400,
+   "units": 10,
+   "serving_g": 40,
+   "protein_serving": 10.0,
+   "kcal_serving": 169.26,
+   "protein_100g": 25.0,
+   "kcal_100g": 423.15,
+   "id": "supply6-protein-wafer-cookies-and-cream-pack-of-10",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 580.0,
+   "mrp_inr": 600.0,
+   "price_store": "Brand site",
+   "price_url": "https://supplysix.com/products/supply6-protein-wafer-cookiesandcream",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0473/8351/1194/files/C_C7.jpg",
+   "nutrition_page_url": "https://supplysix.com/products/supply6-protein-wafer-cookiesandcream",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://supplysix.com/products/supply6-protein-wafer-cookiesandcream",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 40 g serving; per-100 g values are calculated from them.",
+    "Jain: based on the ingredient list on the label image (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Supply6",
+   "name": "Protein Wafer Strawberry (Pack of 10)",
+   "category": "bar",
+   "pack_size": "10 x 40 g",
+   "pack_g": 400,
+   "units": 10,
+   "serving_g": 40,
+   "protein_serving": 10.2,
+   "kcal_serving": 190.05,
+   "protein_100g": 25.5,
+   "kcal_100g": 475.13,
+   "id": "supply6-protein-wafer-strawberry-pack-of-10",
+   "veg": "veg",
+   "jain": false,
+   "price_inr": 580.0,
+   "mrp_inr": 600.0,
+   "price_store": "Brand site",
+   "price_url": "https://supplysix.com/products/supply6-protein-wafer-strawberry",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0473/8351/1194/files/Strawberry_7.jpg",
+   "nutrition_page_url": "https://supplysix.com/products/supply6-protein-wafer-strawberry",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://supplysix.com/products/supply6-protein-wafer-strawberry",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 40 g serving; per-100 g values are calculated from them.",
+    "Jain: ingredient list includes beetroot powder."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "The Eat Better Co.",
+   "name": "Protein Chips Pizza Party (6 packs)",
+   "category": "chips-snacks",
+   "pack_size": "6 packs (weight per pack not stated on listing)",
+   "pack_g": null,
+   "units": 6,
+   "serving_g": 10,
+   "protein_100g": 22.85,
+   "kcal_100g": 439.03,
+   "protein_serving": 12,
+   "kcal_serving": null,
+   "id": "the-eat-better-co-protein-chips-pizza-party-6-packs",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 240.0,
+   "mrp_inr": 300.0,
+   "price_store": "Brand site",
+   "price_url": "https://eatbetterco.com/products/protien-chips-pizza-party?variant=53148344123709",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0272/5606/2025/files/Artboard8_3b3d42cb-6f5e-4be0-b3a0-813942331d7b.jpg",
+   "nutrition_page_url": "https://eatbetterco.com/products/protien-chips-pizza-party?variant=53148344123709",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://eatbetterco.com/products/protien-chips-pizza-party?variant=53148344123709",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Pack weight not stated on the listing. Protein per pack (12 g) is the figure in the brand's product description; ₹ per 10 g protein uses it."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "The Eat Better Co.",
+   "name": "Protein Laddoos Chocolate Fudge (6 packs, 240 g)",
+   "category": "chips-snacks",
+   "pack_size": "6 x 40 g",
+   "pack_g": 240,
+   "units": 6,
+   "serving_g": 10,
+   "protein_100g": 26.14,
+   "kcal_100g": 425.66,
+   "protein_serving": 2.61,
+   "kcal_serving": 42.57,
+   "id": "the-eat-better-co-protein-laddoos-chocolate-fudge-6-packs-240-g",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 499.0,
+   "mrp_inr": 534.0,
+   "price_store": "Brand site",
+   "price_url": "https://eatbetterco.com/products/chocolate-fudge-protein-laddoos?variant=51989077426493",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0272/5606/2025/files/WHkMtshzEEKjZhS_qYy0cS30FqxtVDpb089dSOjzy6g.jpg",
+   "nutrition_page_url": "https://eatbetterco.com/products/chocolate-fudge-protein-laddoos?variant=51989077426493",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://eatbetterco.com/products/chocolate-fudge-protein-laddoos?variant=51989077426493",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Jain: based on the ingredient list on the label image (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Eat Anytime",
+   "name": "Cream N Onion Protein Chips (Pack of 3 jars)",
+   "category": "chips-snacks",
+   "pack_size": "3 x 150 g",
+   "pack_g": 450,
+   "units": 3,
+   "serving_g": 37.5,
+   "protein_100g": 26.2,
+   "kcal_100g": 430.0,
+   "protein_serving": 9.83,
+   "kcal_serving": 161.25,
+   "id": "eat-anytime-cream-n-onion-protein-chips-pack-of-3-jars",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 499.0,
+   "mrp_inr": 1197.0,
+   "price_store": "Brand site",
+   "price_url": "https://eatanytime.in/products/cream-n-onion-protein-chips-40-grams-protein?variant=45816945672353",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0310/9729/0885/files/Cream___Onion_Protein_Chips_07.png",
+   "nutrition_page_url": "https://eatanytime.in/products/cream-n-onion-protein-chips-40-grams-protein?variant=45816945672353",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://eatanytime.in/products/cream-n-onion-protein-chips-40-grams-protein?variant=45816945672353",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Jar weight (150 g) from label: 4 servings of 37.5 g."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Protein Chef",
+   "name": "High Protein Chocolate Cookies",
+   "category": "cookies",
+   "pack_size": "60 g",
+   "pack_g": 60,
+   "units": 1,
+   "serving_g": 20,
+   "protein_100g": 15.0,
+   "kcal_100g": 496.0,
+   "protein_serving": 3.0,
+   "kcal_serving": 99.2,
+   "id": "protein-chef-high-protein-chocolate-cookies",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 94.0,
+   "mrp_inr": 99.0,
+   "price_store": "Brand site",
+   "price_url": "https://proteinchef.in/products/high-protein-chocolate-chip-cookies",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0642/7685/7087/files/nivalues_6162a03a-fd36-4592-9765-15c45f8ac72b.png",
+   "nutrition_page_url": "https://proteinchef.in/products/high-protein-chocolate-chip-cookies",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://proteinchef.in/products/high-protein-chocolate-chip-cookies",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Protein Chef",
+   "name": "High Protein Ragi Digestive Cookies (5 x 100 g)",
+   "category": "cookies",
+   "pack_size": "5 x 100 g",
+   "pack_g": 500,
+   "units": 5,
+   "serving_g": 20,
+   "protein_100g": 12,
+   "kcal_100g": 562,
+   "protein_serving": 2.4,
+   "kcal_serving": 112,
+   "id": "protein-chef-high-protein-ragi-digestive-cookies-5-x-100-g",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 300.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://proteinchef.in/products/protein-chef-digestive-ragi-cookie",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0642/7685/7087/files/sop1_ba090d37-3d78-4412-8084-bc21017c14e5.png",
+   "nutrition_page_url": "https://proteinchef.in/products/protein-chef-digestive-ragi-cookie",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://proteinchef.in/products/protein-chef-digestive-ragi-cookie",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Jain: based on the ingredient list on the label image (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Protein Chef",
+   "name": "Baked Protein Bhujia Pudina",
+   "category": "chips-snacks",
+   "pack_size": "70 g",
+   "pack_g": 70,
+   "units": 1,
+   "serving_g": 35,
+   "protein_100g": 17,
+   "kcal_100g": 456,
+   "protein_serving": 6,
+   "kcal_serving": 160,
+   "id": "protein-chef-baked-protein-bhujia-pudina",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 66.05,
+   "mrp_inr": 70.0,
+   "price_store": "Brand site",
+   "price_url": "https://proteinchef.in/products/bikaneri-bhujia-80gm",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0642/7685/7087/files/nivalues_81.png",
+   "nutrition_page_url": "https://proteinchef.in/products/bikaneri-bhujia-80gm",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://proteinchef.in/products/bikaneri-bhujia-80gm",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Protein Chef",
+   "name": "Double Protein Crunchy Soya Sticks",
+   "category": "chips-snacks",
+   "pack_size": "65 g",
+   "pack_g": 65,
+   "units": 1,
+   "serving_g": 30,
+   "protein_100g": 18.8,
+   "kcal_100g": 529,
+   "protein_serving": 5.6,
+   "kcal_serving": 159,
+   "id": "protein-chef-double-protein-crunchy-soya-sticks",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 56.05,
+   "mrp_inr": 59.0,
+   "price_store": "Brand site",
+   "price_url": "https://proteinchef.in/products/protein-chef-double-protein-crunchy-soya-sticks-no-palm-oil",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0642/7685/7087/files/nivalues_46.png",
+   "nutrition_page_url": "https://proteinchef.in/products/protein-chef-double-protein-crunchy-soya-sticks-no-palm-oil",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://proteinchef.in/products/protein-chef-double-protein-crunchy-soya-sticks-no-palm-oil",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Protein Chef",
+   "name": "High Protein Puffs Cream & Onion",
+   "category": "chips-snacks",
+   "pack_size": "28 g",
+   "pack_g": 28,
+   "units": 1,
+   "serving_g": 14,
+   "protein_100g": 12,
+   "kcal_100g": 481,
+   "protein_serving": 1.7,
+   "kcal_serving": 67,
+   "id": "protein-chef-high-protein-puffs-cream-onion",
+   "veg": "veg",
+   "jain": false,
+   "price_inr": 42.75,
+   "mrp_inr": 45.0,
+   "price_store": "Brand site",
+   "price_url": "https://proteinchef.in/products/gluten-free-cream-onion-puffs",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0642/7685/7087/files/bop_66.png",
+   "nutrition_page_url": "https://proteinchef.in/products/gluten-free-cream-onion-puffs",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://proteinchef.in/products/gluten-free-cream-onion-puffs",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Jain: ingredient list includes onion."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Protein Chef",
+   "name": "Double Protein Bread (64 g protein per loaf)",
+   "category": "bread",
+   "pack_size": "270 g",
+   "pack_g": 270,
+   "units": 1,
+   "serving_g": 54,
+   "protein_100g": 23.7,
+   "kcal_100g": 214,
+   "protein_serving": 12.8,
+   "kcal_serving": 116,
+   "id": "protein-chef-double-protein-bread-64-g-protein-per-loaf",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 99.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://proteinchef.in/products/protein-chef-double-protein-brown-bread-zero-maida",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0642/7685/7087/files/nivalue_3c4a37f4-bc71-4f27-b3da-cf09321cfdf7.png",
+   "nutrition_page_url": "https://proteinchef.in/products/protein-chef-double-protein-brown-bread-zero-maida",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://proteinchef.in/products/protein-chef-double-protein-brown-bread-zero-maida",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Protein Chef",
+   "name": "Double Protein Rusk",
+   "category": "bread",
+   "pack_size": "145 g",
+   "pack_g": 145,
+   "units": 1,
+   "serving_g": 20,
+   "protein_100g": 20,
+   "kcal_100g": 387,
+   "protein_serving": 4,
+   "kcal_serving": 77,
+   "id": "protein-chef-double-protein-rusk",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 99.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://proteinchef.in/products/protein-chef-double-protein-rusk-145g",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0642/7685/7087/files/nivalues_7a5b69fd-ad6c-4ef7-a839-7e247894b41a.png",
+   "nutrition_page_url": "https://proteinchef.in/products/protein-chef-double-protein-rusk-145g",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://proteinchef.in/products/protein-chef-double-protein-rusk-145g",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Protein Chef",
+   "name": "High Protein Pancake Mix Banana",
+   "category": "breakfast",
+   "pack_size": "180 g (4 x 45 g servings per label)",
+   "pack_g": 180,
+   "units": 1,
+   "serving_g": 45,
+   "protein_100g": 20,
+   "kcal_100g": 359,
+   "protein_serving": 9,
+   "kcal_serving": 162,
+   "id": "protein-chef-high-protein-pancake-mix-banana",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 160.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://proteinchef.in/products/protein-chef-high-protein-pancake-mix-banana-flavour",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0642/7685/7087/files/10_19.png",
+   "nutrition_page_url": "https://proteinchef.in/products/protein-chef-high-protein-pancake-mix-banana-flavour",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://proteinchef.in/products/protein-chef-high-protein-pancake-mix-banana-flavour",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Pack weight taken from label (4 servings of 45 g); not stated on the listing. Values are for the dry mix."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Snackible",
+   "name": "Masala Protein Baked Bhujia",
+   "category": "chips-snacks",
+   "pack_size": "65 g",
+   "pack_g": 65,
+   "units": 1,
+   "serving_g": 65,
+   "protein_serving": 14.19,
+   "kcal_serving": 302.62,
+   "protein_100g": 21.83,
+   "kcal_100g": 465.57,
+   "id": "snackible-masala-protein-baked-bhujia",
+   "veg": "veg",
+   "jain": false,
+   "price_inr": 60.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://snackible.com/products/masala-protein-bhujia?variant=42284542984258",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0126/6732/2432/files/NITable-01_b923ddb8-a113-40b6-97be-528737b78cfc.jpg",
+   "nutrition_page_url": "https://snackible.com/products/masala-protein-bhujia?variant=42284542984258",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://snackible.com/products/masala-protein-bhujia?variant=42284542984258",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 65 g serving; per-100 g values are calculated from them.",
+    "Jain: ingredient list includes onion and garlic."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Snackible",
+   "name": "Pudina Protein Baked Bhujia",
+   "category": "chips-snacks",
+   "pack_size": "65 g",
+   "pack_g": 65,
+   "units": 1,
+   "serving_g": 60,
+   "protein_serving": 15.34,
+   "kcal_serving": 245.46,
+   "protein_100g": 25.57,
+   "kcal_100g": 409.1,
+   "id": "snackible-pudina-protein-baked-bhujia",
+   "veg": "veg",
+   "jain": false,
+   "price_inr": 60.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://snackible.com/products/pudina-protein-bhujia?variant=42284534399042",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0126/6732/2432/files/95b069c1-947f-48ac-94f2-5280cdaea618.jpg",
+   "nutrition_page_url": "https://snackible.com/products/pudina-protein-bhujia?variant=42284534399042",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://snackible.com/products/pudina-protein-bhujia?variant=42284534399042",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 60 g serving; per-100 g values are calculated from them.",
+    "Label gives values per 60 g; the pack is 65 g.",
+    "Jain: ingredient list includes onion and garlic."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Snackible",
+   "name": "Pani Puri Protein Popped Chips",
+   "category": "chips-snacks",
+   "pack_size": "32 g",
+   "pack_g": 32,
+   "units": 1,
+   "serving_g": 30,
+   "protein_serving": 7.5,
+   "kcal_serving": 145.5,
+   "protein_100g": 25.0,
+   "kcal_100g": 485.0,
+   "id": "snackible-pani-puri-protein-popped-chips",
+   "veg": "veg",
+   "jain": false,
+   "price_inr": 60.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://snackible.com/products/pani-puri-protein-popped-chips?variant=42397032415298",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0126/6732/2432/files/high_potien_popped_chips-_pani_puri-01.jpg",
+   "nutrition_page_url": "https://snackible.com/products/pani-puri-protein-popped-chips?variant=42397032415298",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://snackible.com/products/pani-puri-protein-popped-chips?variant=42397032415298",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 30 g serving; per-100 g values are calculated from them.",
+    "Label gives values per 30 g; the pack is 32 g.",
+    "Jain: ingredient list includes dehydrated potato and ginger."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Snackible",
+   "name": "Cheddar Cheese Protein Chakli",
+   "category": "chips-snacks",
+   "pack_size": "50 g",
+   "pack_g": 50,
+   "units": 1,
+   "serving_g": 50,
+   "protein_100g": 18.32,
+   "kcal_100g": 542.35,
+   "protein_serving": 9.16,
+   "kcal_serving": 271.17,
+   "id": "snackible-cheddar-cheese-protein-chakli",
+   "veg": "veg",
+   "jain": false,
+   "price_inr": 65.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://snackible.com/products/cheddar-cheese-protein-chakli-17-protein-per-serve?variant=43934564417602",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0126/6732/2432/files/cheese-01_475eb940-5bbf-4626-a697-4179831d5738.png",
+   "nutrition_page_url": "https://snackible.com/products/cheddar-cheese-protein-chakli-17-protein-per-serve?variant=43934564417602",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://snackible.com/products/cheddar-cheese-protein-chakli-17-protein-per-serve?variant=43934564417602",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Jain: ingredient list includes tapioca starch (from a root)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Snackible",
+   "name": "Roasted Moong Jor (Salted)",
+   "category": "chips-snacks",
+   "pack_size": "90 g",
+   "pack_g": 90,
+   "units": 1,
+   "serving_g": 85,
+   "protein_serving": 15.895,
+   "kcal_serving": 253.7,
+   "protein_100g": 18.7,
+   "kcal_100g": 298.47,
+   "id": "snackible-roasted-moong-jor-salted",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 80.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://snackible.com/products/roasted-moong-jor-salted?variant=39587363356738",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0126/6732/2432/files/moong_jor-01.jpg",
+   "nutrition_page_url": "https://snackible.com/products/roasted-moong-jor-salted?variant=39587363356738",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://snackible.com/products/roasted-moong-jor-salted?variant=39587363356738",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 85 g serving; per-100 g values are calculated from them.",
+    "Label gives values per 85 g; the pack is 90 g.",
+    "Jain: based on the ingredient list on the label image (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Epigamia",
+   "name": "Natural Greek Yogurt 400 g",
+   "category": "curd-yogurt",
+   "pack_size": "400 g",
+   "pack_g": 400,
+   "units": 1,
+   "serving_g": 100,
+   "protein_100g": 7,
+   "kcal_100g": 65,
+   "protein_serving": 7,
+   "kcal_serving": 65,
+   "id": "epigamia-natural-greek-yogurt-400-g",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 250.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://epigamia.com/products/epigamia-natural-greek-yogurt-400gm-v-zfwmanikonda",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0331/1983/0148/products/Natural_400g-02_2ebf4add-970b-4e70-8d08-0552661a5e95.png",
+   "nutrition_page_url": "https://epigamia.com/products/epigamia-natural-greek-yogurt-400gm-v-zfwmanikonda",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://epigamia.com/products/epigamia-natural-greek-yogurt-400gm-v-zfwmanikonda",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Jain: based on the ingredient list on the label image (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Epigamia",
+   "name": "Greek Yogurt Natural 85 g",
+   "category": "curd-yogurt",
+   "pack_size": "85 g",
+   "pack_g": 85,
+   "units": 1,
+   "serving_g": 85,
+   "protein_serving": 6.1,
+   "kcal_serving": 58,
+   "protein_100g": 7.18,
+   "kcal_100g": 68.24,
+   "id": "epigamia-greek-yogurt-natural-85-g",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 60.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://epigamia.com/products/greek-yogurt-natural-85-gm-v-epigamia-v-zfwkoramangala",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0331/1983/0148/files/11_26d487f5-fae6-4489-8a44-43fb6bcf6b70.jpg",
+   "nutrition_page_url": "https://epigamia.com/products/greek-yogurt-natural-85-gm-v-epigamia-v-zfwkoramangala",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://epigamia.com/products/greek-yogurt-natural-85-gm-v-epigamia-v-zfwkoramangala",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 85 g serving; per-100 g values are calculated from them.",
+    "Jain: based on the ingredient list on the label image (no onion, garlic, root vegetables, gelatin, egg or honey listed).",
+    "Listed as out of stock on the brand site when checked."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Epigamia",
+   "name": "Lactose Free Curd",
+   "category": "curd-yogurt",
+   "pack_size": "400 g (4 x 100 g servings per label)",
+   "pack_g": 400,
+   "units": 1,
+   "serving_g": 100,
+   "protein_100g": 3,
+   "kcal_100g": 64,
+   "protein_serving": 3,
+   "kcal_serving": 64,
+   "id": "epigamia-lactose-free-curd",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 100.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://epigamia.com/products/lactose-free-curd",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0331/1983/0148/files/Blinkit_Zepto_EcommImages1500x1500px_LactoseFreeCurd400g_FSSAIoneline-04_19be2772-5b60-405e-8d6d-5c13654dec78.jpg",
+   "nutrition_page_url": "https://epigamia.com/products/lactose-free-curd",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://epigamia.com/products/lactose-free-curd",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Pack weight taken from label (4 servings of 100 g)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Epigamia",
+   "name": "Turbo 30g Protein Milkshake Mango",
+   "category": "drink-shake",
+   "pack_size": "250 ml",
+   "pack_g": 250,
+   "units": 1,
+   "serving_g": 250,
+   "protein_serving": 30,
+   "kcal_serving": 166,
+   "protein_100g": 12.0,
+   "kcal_100g": 66.4,
+   "id": "epigamia-turbo-30g-protein-milkshake-mango",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 165.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://epigamia.com/products/turbo-30g-protein-milkshake-mango-v-epigamia",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0331/1983/0148/files/05_e4f36d89-2893-473a-9ce6-bb9355a675ef.jpg",
+   "nutrition_page_url": "https://epigamia.com/products/turbo-30g-protein-milkshake-mango-v-epigamia",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://epigamia.com/products/turbo-30g-protein-milkshake-mango-v-epigamia",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 250 ml serving; per-100 ml values are calculated from them.",
+    "Jain: based on the ingredient list on the label image (no onion, garlic, root vegetables, gelatin, egg or honey listed).",
+    "Listed as out of stock on the brand site when checked."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Epigamia",
+   "name": "Turbo 25g Protein Milkshake Coffee (Pack of 6)",
+   "category": "drink-shake",
+   "pack_size": "6 x 250 ml",
+   "pack_g": 1500,
+   "units": 6,
+   "serving_g": 250,
+   "protein_serving": 25,
+   "kcal_serving": 138,
+   "protein_100g": 10.0,
+   "kcal_100g": 55.2,
+   "id": "epigamia-turbo-25g-protein-milkshake-coffee-pack-of-6",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 567.0,
+   "mrp_inr": 846.0,
+   "price_store": "Brand site",
+   "price_url": "https://epigamia.com/products/turbo-25-g-protein-milkshake-coffee-250-ml-pack-of-6-v-zfwmanikonda",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0331/1983/0148/files/07_23af39d7-40e3-4c3e-ba6a-ae3e00e2802d.jpg",
+   "nutrition_page_url": "https://epigamia.com/products/turbo-25-g-protein-milkshake-coffee-250-ml-pack-of-6-v-zfwmanikonda",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://epigamia.com/products/turbo-25-g-protein-milkshake-coffee-250-ml-pack-of-6-v-zfwmanikonda",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 250 ml serving; per-100 ml values are calculated from them.",
+    "Jain: based on the ingredient list on the label image (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Epigamia",
+   "name": "Greek Yogurt Wild Raspberry 85 g",
+   "category": "curd-yogurt",
+   "pack_size": "85 g",
+   "pack_g": 85,
+   "units": 1,
+   "serving_g": 85,
+   "protein_serving": 5.2,
+   "kcal_serving": 79,
+   "protein_100g": 6.12,
+   "kcal_100g": 92.94,
+   "id": "epigamia-greek-yogurt-wild-raspberry-85-g",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 60.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://epigamia.com/products/greek-yogurt-wild-raspberry-85-gm-v-epigamia-v-zfwchennai",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0331/1983/0148/files/08_8900b39c-dd87-43f1-bc24-be23e1bece1a.jpg",
+   "nutrition_page_url": "https://epigamia.com/products/greek-yogurt-wild-raspberry-85-gm-v-epigamia-v-zfwchennai",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://epigamia.com/products/greek-yogurt-wild-raspberry-85-gm-v-epigamia-v-zfwchennai",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 85 g serving; per-100 g values are calculated from them.",
+    "Jain: based on the ingredient list on the label image (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Epigamia",
+   "name": "Zero Added Sugar Greek Yogurt Smoothie Blueberry",
+   "category": "drink-shake",
+   "pack_size": "200 ml",
+   "pack_g": 200,
+   "units": 1,
+   "serving_g": 200,
+   "protein_serving": 10,
+   "kcal_serving": 116,
+   "protein_100g": 5.0,
+   "kcal_100g": 58.0,
+   "id": "epigamia-zero-added-sugar-greek-yogurt-smoothie-blueberry",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 100.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://epigamia.com/products/zero-added-sugar-greek-yogurt-smoothies-blueberry-v-zfwandheri",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0331/1983/0148/files/07_d922dcbd-f136-47db-af09-1fbfcc57cfa0.jpg",
+   "nutrition_page_url": "https://epigamia.com/products/zero-added-sugar-greek-yogurt-smoothies-blueberry-v-zfwandheri",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://epigamia.com/products/zero-added-sugar-greek-yogurt-smoothies-blueberry-v-zfwandheri",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 200 ml serving; per-100 ml values are calculated from them."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Alpino",
+   "name": "Supernatural Peanut Protein Powder Cold Coffee",
+   "category": "whey",
+   "pack_size": "1 kg",
+   "pack_g": 1000,
+   "units": 1,
+   "serving_g": 37,
+   "protein_serving": 25.3,
+   "kcal_serving": 142.6,
+   "protein_100g": 68.38,
+   "kcal_100g": 385.41,
+   "id": "alpino-supernatural-peanut-protein-powder-cold-coffee",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 2099.0,
+   "mrp_inr": 2899.0,
+   "price_store": "Brand site",
+   "price_url": "https://alpino.store/products/supernatural-peanut-protein-powder-cold-coffee-protein?variant=46880041828522",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/SNPColdCoffee03.png",
+   "nutrition_page_url": "https://alpino.store/products/supernatural-peanut-protein-powder-cold-coffee-protein?variant=46880041828522",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://alpino.store/products/supernatural-peanut-protein-powder-cold-coffee-protein?variant=46880041828522",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 37 g serving; per-100 g values are calculated from them.",
+    "Plant (peanut) protein powder; listed under protein powders.",
+    "Jain: based on the ingredient list on the label image (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Alpino",
+   "name": "Protein Rich Super Corn Flakes Chocolate",
+   "category": "breakfast",
+   "pack_size": "750 g",
+   "pack_g": 750,
+   "units": 1,
+   "serving_g": 30,
+   "protein_100g": 13,
+   "kcal_100g": 500,
+   "protein_serving": null,
+   "kcal_serving": null,
+   "id": "alpino-protein-rich-super-corn-flakes-chocolate",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 299.0,
+   "mrp_inr": 399.0,
+   "price_store": "Brand site",
+   "price_url": "https://alpino.store/products/corn-flakes-chocolate?variant=47387669758122",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04CornFlakes.webp",
+   "nutrition_page_url": "https://alpino.store/products/corn-flakes-chocolate?variant=47387669758122",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://alpino.store/products/corn-flakes-chocolate?variant=47387669758122",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Jain: based on the ingredient list on the label image (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "The Health Factory",
+   "name": "Protein Bread Multi Protein-Lite (Vegan)",
+   "category": "bread",
+   "pack_size": "250 g",
+   "pack_g": 250,
+   "units": 1,
+   "serving_g": 50,
+   "protein_100g": 15.86,
+   "kcal_100g": 244.05,
+   "protein_serving": 7.93,
+   "kcal_serving": 122.03,
+   "id": "the-health-factory-protein-bread-multi-protein-lite-vegan",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 105.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://thehealthfactory.in/products/multi-protein-lite-vegan",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0555/4300/5393/files/6_3ffbc685-98c2-43cd-8cf5-abdc1c5944cc.webp",
+   "nutrition_page_url": "https://thehealthfactory.in/products/multi-protein-lite-vegan",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://thehealthfactory.in/products/multi-protein-lite-vegan",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Price is the one-time purchase option on the listing."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "MyFitness",
+   "name": "Peanut Butter Original Crunchy",
+   "category": "peanut-butter",
+   "pack_size": "1.25 kg",
+   "pack_g": 1250,
+   "units": 1,
+   "serving_g": 32,
+   "protein_100g": 28,
+   "kcal_100g": 639,
+   "protein_serving": 8.9,
+   "kcal_serving": 204,
+   "id": "myfitness-peanut-butter-original-crunchy",
+   "veg": "veg",
+   "jain": null,
+   "price_inr": 499.0,
+   "mrp_inr": 669.0,
+   "price_store": "Brand site",
+   "price_url": "https://myfitness.in/products/myfitness-original-peanut-butter-crunchy?variant=39986292654234",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0440/7921/8842/files/5_10__converted.webp",
+   "nutrition_page_url": "https://myfitness.in/products/myfitness-original-peanut-butter-crunchy?variant=39986292654234",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://myfitness.in/products/myfitness-original-peanut-butter-crunchy?variant=39986292654234",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Open Secret",
+   "name": "High Protein Breakfast Oats",
+   "category": "breakfast",
+   "pack_size": "1 kg",
+   "pack_g": 1000,
+   "units": 1,
+   "serving_g": 40,
+   "protein_serving": 8.9,
+   "kcal_serving": 163.1,
+   "protein_100g": 22.25,
+   "kcal_100g": 407.75,
+   "id": "open-secret-high-protein-breakfast-oats",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 499.0,
+   "mrp_inr": 749.0,
+   "price_store": "Brand site",
+   "price_url": "https://opensecret.in/products/open-secret-high-protein-healthy-breakfast-oats",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://cdn.shopify.com/s/files/1/0629/7252/6778/files/5._NI_Ingredient.jpg",
+   "nutrition_page_url": "https://opensecret.in/products/open-secret-high-protein-healthy-breakfast-oats",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://opensecret.in/products/open-secret-high-protein-healthy-breakfast-oats",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Label gives values per 40 g serving; per-100 g values are calculated from them.",
+    "Jain: based on the ingredient list on the label image (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Nutrition read from the label image on the brand's product listing."
+  },
+  {
+   "brand": "Amul",
+   "name": "High Protein Paneer (Pack of 2 x 400 g tins)",
+   "category": "paneer",
+   "pack_size": "2 x 400 g tin (4 x 50 g servings of paneer per tin)",
+   "pack_g": 400,
+   "units": 2,
+   "serving_g": 50,
+   "protein_serving": 12.5,
+   "kcal_serving": 85,
+   "protein_100g": 25.0,
+   "kcal_100g": 170,
+   "id": "amul-high-protein-paneer-pack-of-2-x-400-g-tins",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 330.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://shop.amul.com/en/product/amul-high-protein-paneer-400-g-or-pack-of-2",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://www.amul.com/products/amul-HP-tin-paneer-info.php",
+   "nutrition_page_url": "https://shop.amul.com/en/product/amul-high-protein-paneer-400-g-or-pack-of-2",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://shop.amul.com/en/product/amul-high-protein-paneer-400-g-or-pack-of-2",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Each 400 g tin includes brine. The amul.com label table lists 4 servings of 50 g per tin, so 200 g of paneer per tin (400 g for the pack) is used for total protein.",
+    "Jain: based on the ingredient list on the brand listing (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Price is the MRP shown on the Amul e-store listing. Nutrition from the nutrition table on the amul.com product page."
+  },
+  {
+   "brand": "Amul",
+   "name": "High Protein Plain Lassi (Pack of 30)",
+   "category": "drink-shake",
+   "pack_size": "30 x 200 ml",
+   "pack_g": 6000,
+   "units": 30,
+   "serving_g": 200,
+   "protein_serving": 15,
+   "kcal_serving": 107,
+   "protein_100g": 7.5,
+   "kcal_100g": 53.5,
+   "id": "amul-high-protein-plain-lassi-pack-of-30",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 900.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://shop.amul.com/en/product/amul-high-protein-plain-lassi-200-ml-or-pack-of-30",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://shop.amul.com/en/product/amul-high-protein-plain-lassi-200-ml-or-pack-of-30",
+   "nutrition_page_url": "https://shop.amul.com/en/product/amul-high-protein-plain-lassi-200-ml-or-pack-of-30",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://shop.amul.com/en/product/amul-high-protein-plain-lassi-200-ml-or-pack-of-30",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Brand gives values per 200 ml pack; per-100 ml values are calculated from them.",
+    "Jain: based on the ingredient list on the brand listing (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Price is the MRP shown on the Amul e-store listing. Protein and energy per pack as stated in the Amul e-store product description."
+  },
+  {
+   "brand": "Amul",
+   "name": "High Protein Rose Lassi (Pack of 30)",
+   "category": "drink-shake",
+   "pack_size": "30 x 200 ml",
+   "pack_g": 6000,
+   "units": 30,
+   "serving_g": 200,
+   "protein_serving": 15,
+   "kcal_serving": 107,
+   "protein_100g": 7.5,
+   "kcal_100g": 53.5,
+   "id": "amul-high-protein-rose-lassi-pack-of-30",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 900.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://shop.amul.com/en/product/amul-high-protein-rose-lassi-200-ml-or-pack-of-30",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://shop.amul.com/en/product/amul-high-protein-rose-lassi-200-ml-or-pack-of-30",
+   "nutrition_page_url": "https://shop.amul.com/en/product/amul-high-protein-rose-lassi-200-ml-or-pack-of-30",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://shop.amul.com/en/product/amul-high-protein-rose-lassi-200-ml-or-pack-of-30",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Brand gives values per 200 ml pack; per-100 ml values are calculated from them.",
+    "Listed as sold out on the brand site when checked.",
+    "Jain: based on the ingredient list on the brand listing (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Price is the MRP shown on the Amul e-store listing. Protein and energy per pack as stated in the Amul e-store product description."
+  },
+  {
+   "brand": "Amul",
+   "name": "High Protein Buttermilk (Pack of 30)",
+   "category": "drink-shake",
+   "pack_size": "30 x 200 ml",
+   "pack_g": 6000,
+   "units": 30,
+   "serving_g": 200,
+   "protein_serving": 15.0,
+   "kcal_serving": 108,
+   "protein_100g": 7.5,
+   "kcal_100g": 54.0,
+   "id": "amul-high-protein-buttermilk-pack-of-30",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 900.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://shop.amul.com/en/product/amul-high-protein-buttermilk-200-ml-or-pack-of-30",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://www.amul.com/products/amul-highprotein-buttermilk-info.php",
+   "nutrition_page_url": "https://shop.amul.com/en/product/amul-high-protein-buttermilk-200-ml-or-pack-of-30",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://shop.amul.com/en/product/amul-high-protein-buttermilk-200-ml-or-pack-of-30",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Brand gives values per 200 ml pack; per-100 ml values are calculated from them.",
+    "Jain: based on the ingredient list on the brand listing (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Price is the MRP shown on the Amul e-store listing. Nutrition from the nutrition table on the amul.com product page."
+  },
+  {
+   "brand": "Amul",
+   "name": "High Protein Milk (Pack of 8)",
+   "category": "drink-shake",
+   "pack_size": "8 x 250 ml",
+   "pack_g": 2000,
+   "units": 8,
+   "serving_g": 250,
+   "protein_serving": 35,
+   "kcal_serving": 225,
+   "protein_100g": 14.0,
+   "kcal_100g": 90.0,
+   "id": "amul-high-protein-milk-pack-of-8",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 880.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://shop.amul.com/en/product/amul-high-protein-milk-250-ml-or-pack-of-8",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://shop.amul.com/en/product/amul-high-protein-milk-250-ml-or-pack-of-8",
+   "nutrition_page_url": "https://shop.amul.com/en/product/amul-high-protein-milk-250-ml-or-pack-of-8",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://shop.amul.com/en/product/amul-high-protein-milk-250-ml-or-pack-of-8",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Brand gives values per 250 ml pack; per-100 ml values are calculated from them.",
+    "Jain: based on the ingredient list on the brand listing (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Price is the MRP shown on the Amul e-store listing. Protein and energy per pack as stated in the Amul e-store product description."
+  },
+  {
+   "brand": "Amul",
+   "name": "Kool Protein Milkshake Chocolate (Pack of 8)",
+   "category": "drink-shake",
+   "pack_size": "8 x 180 ml",
+   "pack_g": 1440,
+   "units": 8,
+   "serving_g": 180,
+   "protein_serving": 10,
+   "kcal_serving": 133,
+   "protein_100g": 5.56,
+   "kcal_100g": 73.89,
+   "id": "amul-kool-protein-milkshake-chocolate-pack-of-8",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 320.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://shop.amul.com/en/product/amul-kool-protein-milkshake-or-chocolate-180-ml-or-pack-of-8",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://shop.amul.com/en/product/amul-kool-protein-milkshake-or-chocolate-180-ml-or-pack-of-8",
+   "nutrition_page_url": "https://shop.amul.com/en/product/amul-kool-protein-milkshake-or-chocolate-180-ml-or-pack-of-8",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://shop.amul.com/en/product/amul-kool-protein-milkshake-or-chocolate-180-ml-or-pack-of-8",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Brand gives values per 180 ml pack; per-100 ml values are calculated from them.",
+    "Jain: based on the ingredient list on the brand listing (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Price is the MRP shown on the Amul e-store listing. Protein and energy per pack as stated in the Amul e-store product description."
+  },
+  {
+   "brand": "Amul",
+   "name": "High Protein Blueberry Shake (Pack of 30)",
+   "category": "drink-shake",
+   "pack_size": "30 x 200 ml",
+   "pack_g": 6000,
+   "units": 30,
+   "serving_g": 200,
+   "protein_serving": 20,
+   "kcal_serving": 138,
+   "protein_100g": 10.0,
+   "kcal_100g": 69.0,
+   "id": "amul-high-protein-blueberry-shake-pack-of-30",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 1800.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://shop.amul.com/en/product/amul-high-protein-blueberry-shake-200-ml-or-pack-of-30",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://shop.amul.com/en/product/amul-high-protein-blueberry-shake-200-ml-or-pack-of-30",
+   "nutrition_page_url": "https://shop.amul.com/en/product/amul-high-protein-blueberry-shake-200-ml-or-pack-of-30",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://shop.amul.com/en/product/amul-high-protein-blueberry-shake-200-ml-or-pack-of-30",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Brand gives values per 200 ml pack; per-100 ml values are calculated from them.",
+    "Jain: based on the ingredient list on the brand listing (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Price is the MRP shown on the Amul e-store listing. Protein and energy per pack as stated in the Amul e-store product description."
+  },
+  {
+   "brand": "Amul",
+   "name": "Whey Protein (30 x 32 g sachets)",
+   "category": "whey",
+   "pack_size": "30 x 32 g sachets",
+   "pack_g": 960,
+   "units": 30,
+   "serving_g": 32,
+   "protein_serving": 25,
+   "kcal_serving": 128,
+   "protein_100g": 78,
+   "kcal_100g": 400,
+   "id": "amul-whey-protein-30-x-32-g-sachets",
+   "veg": "veg",
+   "jain": true,
+   "price_inr": 2400.0,
+   "mrp_inr": null,
+   "price_store": "Brand site",
+   "price_url": "https://shop.amul.com/en/product/amul-whey-protein-32-g-or-pack-of-30-sachets",
+   "price_date": "2026-10-19",
+   "nutrition_url": "https://amul.com/products/amul-whey-protein-info.php?product_id=388023",
+   "nutrition_page_url": "https://shop.amul.com/en/product/amul-whey-protein-32-g-or-pack-of-30-sachets",
+   "nutrition_date": "2026-10-19",
+   "stores": [
+    {
+     "name": "Brand site",
+     "url": "https://shop.amul.com/en/product/amul-whey-protein-32-g-or-pack-of-30-sachets",
+     "affiliate_url": ""
+    }
+   ],
+   "image": null,
+   "flags": [
+    "Per-sachet energy (128 kcal) is calculated from the label value of 400 kcal per 100 g.",
+    "Listed as sold out on the brand site when checked.",
+    "Jain: based on the ingredient list on the brand listing (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+   ],
+   "notes": "Price is the MRP shown on the Amul e-store listing. Nutrition from the nutrition table on the amul.com product page."
   }
  ]
 }
