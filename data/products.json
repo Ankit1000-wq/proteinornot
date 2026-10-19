@@ -52,10 +52,10 @@
    "id": "yoga-bar-power-up-choco-peanut-butter-20g-protein-bar-pack-of-5",
    "veg": "veg",
    "jain": null,
-   "price_inr": 375.0,
+   "price_inr": 349.0,
    "mrp_inr": 625.0,
-   "price_store": "Brand site",
-   "price_url": "https://www.yogabars.in/products/20g-choco-peanut-butter-protein-bar-pack-of-5",
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0DT77GWLW",
    "price_date": "2026-10-19",
    "nutrition_url": "https://cdn.shopify.com/s/files/1/0267/5245/files/yogabar-20g-protein-bar-nutrition-label.jpg",
    "nutrition_page_url": "https://www.yogabars.in/products/20g-choco-peanut-butter-protein-bar-pack-of-5",
@@ -65,10 +65,17 @@
      "name": "Brand site",
      "url": "https://www.yogabars.in/products/20g-choco-peanut-butter-protein-bar-pack-of-5",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0DT77GWLW",
+     "affiliate_url": ""
     }
    ],
    "image": null,
-   "flags": [],
+   "flags": [
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹375). Retailer prices and sellers change often."
+   ],
    "notes": "Nutrition read from the label image on the brand's product listing."
   },
   {
@@ -330,10 +337,10 @@
    "id": "superyou-20g-mega-protein-wafer-kesar-pista-badam-pack-of-6",
    "veg": "veg",
    "jain": null,
-   "price_inr": 699.0,
+   "price_inr": 599.0,
    "mrp_inr": 750.0,
-   "price_store": "Brand site",
-   "price_url": "https://superyou.in/products/20-mega-protein-wafer-kesar-pista-badam",
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0HC4LS7YL",
    "price_date": "2026-10-19",
    "nutrition_url": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/9_20gProtein_NITableD2C.jpg",
    "nutrition_page_url": "https://superyou.in/products/20-mega-protein-wafer-kesar-pista-badam",
@@ -343,11 +350,17 @@
      "name": "Brand site",
      "url": "https://superyou.in/products/20-mega-protein-wafer-kesar-pista-badam",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0HC4LS7YL",
+     "affiliate_url": ""
     }
    ],
    "image": null,
    "flags": [
-    "Label gives values per 60 g serving; per-100 g values are calculated from them."
+    "Label gives values per 60 g serving; per-100 g values are calculated from them.",
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹699). Retailer prices and sellers change often."
    ],
    "notes": "Nutrition read from the label image on the brand's product listing."
   },
@@ -366,10 +379,10 @@
    "id": "superyou-chocolate-protein-wafer-pack-of-10",
    "veg": "veg",
    "jain": null,
-   "price_inr": 499.0,
+   "price_inr": 425.0,
    "mrp_inr": 600.0,
-   "price_store": "Brand site",
-   "price_url": "https://superyou.in/products/chocolate-protein-wafer",
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0DMT62KFV",
    "price_date": "2026-10-19",
    "nutrition_url": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/7_NI_Table.png",
    "nutrition_page_url": "https://superyou.in/products/chocolate-protein-wafer",
@@ -379,11 +392,17 @@
      "name": "Brand site",
      "url": "https://superyou.in/products/chocolate-protein-wafer",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0DMT62KFV",
+     "affiliate_url": ""
     }
    ],
    "image": null,
    "flags": [
-    "Label gives values per 40 g serving; per-100 g values are calculated from them."
+    "Label gives values per 40 g serving; per-100 g values are calculated from them.",
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹499). Retailer prices and sellers change often."
    ],
    "notes": "Nutrition read from the label image on the brand's product listing."
   },
@@ -402,10 +421,10 @@
    "id": "superyou-cheese-protein-wafer-pack-of-10",
    "veg": "veg",
    "jain": null,
-   "price_inr": 499.0,
+   "price_inr": 425.0,
    "mrp_inr": 600.0,
-   "price_store": "Brand site",
-   "price_url": "https://superyou.in/products/cheese-protein-wafer",
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0DMT4N817",
    "price_date": "2026-10-19",
    "nutrition_url": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/7NITable.png",
    "nutrition_page_url": "https://superyou.in/products/cheese-protein-wafer",
@@ -415,11 +434,17 @@
      "name": "Brand site",
      "url": "https://superyou.in/products/cheese-protein-wafer",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0DMT4N817",
+     "affiliate_url": ""
     }
    ],
    "image": null,
    "flags": [
-    "Label gives values per 40 g serving; per-100 g values are calculated from them."
+    "Label gives values per 40 g serving; per-100 g values are calculated from them.",
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹499). Retailer prices and sellers change often."
    ],
    "notes": "Nutrition read from the label image on the brand's product listing."
   },
@@ -911,10 +936,10 @@
    "id": "bagrrys-high-protein-oats",
    "veg": "veg",
    "jain": null,
-   "price_inr": 577.0,
-   "mrp_inr": null,
-   "price_store": "Brand site",
-   "price_url": "https://bagrrys.com/products/high-protein-oats-25g-protein",
+   "price_inr": 375.0,
+   "mrp_inr": 577.0,
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0DPZJJG48",
    "price_date": "2026-10-19",
    "nutrition_url": "https://cdn.shopify.com/s/files/1/0413/5147/9451/files/4_e8fec10c-ee7f-4239-9ccb-06c038a77fe6.jpg",
    "nutrition_page_url": "https://bagrrys.com/products/high-protein-oats-25g-protein",
@@ -924,10 +949,17 @@
      "name": "Brand site",
      "url": "https://bagrrys.com/products/high-protein-oats-25g-protein",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0DPZJJG48",
+     "affiliate_url": ""
     }
    ],
    "image": null,
-   "flags": [],
+   "flags": [
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹577). Retailer prices and sellers change often."
+   ],
    "notes": "Nutrition read from the label image on the brand's product listing."
   },
   {
@@ -981,10 +1013,10 @@
    "id": "bagrrys-whey-protein-muesli-chocolate-almonds",
    "veg": "veg",
    "jain": null,
-   "price_inr": 399.0,
-   "mrp_inr": null,
-   "price_store": "Brand site",
-   "price_url": "https://bagrrys.com/products/protein-muesli-chocolate",
+   "price_inr": 377.0,
+   "mrp_inr": 425.0,
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0752WSWL5",
    "price_date": "2026-10-19",
    "nutrition_url": "https://cdn.shopify.com/s/files/1/0413/5147/9451/files/4_f1b4c92d-eda1-4bbb-90ad-10ca4d4862c6.jpg",
    "nutrition_page_url": "https://bagrrys.com/products/protein-muesli-chocolate",
@@ -994,10 +1026,17 @@
      "name": "Brand site",
      "url": "https://bagrrys.com/products/protein-muesli-chocolate",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0752WSWL5",
+     "affiliate_url": ""
     }
    ],
    "image": null,
-   "flags": [],
+   "flags": [
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹399). Retailer prices and sellers change often."
+   ],
    "notes": "Nutrition read from the label image on the brand's product listing."
   },
   {
@@ -1225,10 +1264,10 @@
    "id": "myfitness-pro-fitness-high-protein-choco-oats",
    "veg": "veg",
    "jain": null,
-   "price_inr": 219.0,
+   "price_inr": 206.0,
    "mrp_inr": 339.0,
-   "price_store": "Brand site",
-   "price_url": "https://myfitness.in/products/high-protein-oats-900g-27g-protein",
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0F6NMZHNH",
    "price_date": "2026-10-19",
    "nutrition_url": "https://cdn.shopify.com/s/files/1/0440/7921/8842/files/2_converted.webp",
    "nutrition_page_url": "https://myfitness.in/products/high-protein-oats-900g-27g-protein",
@@ -1238,10 +1277,17 @@
      "name": "Brand site",
      "url": "https://myfitness.in/products/high-protein-oats-900g-27g-protein",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0F6NMZHNH",
+     "affiliate_url": ""
     }
    ],
    "image": null,
-   "flags": [],
+   "flags": [
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹219). Retailer prices and sellers change often."
+   ],
    "notes": "Nutrition read from the label image on the brand's product listing."
   },
   {
@@ -1330,10 +1376,10 @@
    "id": "alpino-high-protein-muesli-cold-coffee",
    "veg": "veg",
    "jain": null,
-   "price_inr": 299.0,
-   "mrp_inr": 429.0,
-   "price_store": "Brand site",
-   "price_url": "https://alpino.store/products/high-protein-muesli-coffee",
+   "price_inr": 258.0,
+   "mrp_inr": 349.0,
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0FDKHBSK5",
    "price_date": "2026-10-19",
    "nutrition_url": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/WhatsApp_Image_2026-05-19_at.webp",
    "nutrition_page_url": "https://alpino.store/products/high-protein-muesli-coffee",
@@ -1343,10 +1389,17 @@
      "name": "Brand site",
      "url": "https://alpino.store/products/high-protein-muesli-coffee",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0FDKHBSK5",
+     "affiliate_url": ""
     }
    ],
    "image": null,
-   "flags": [],
+   "flags": [
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹299). Retailer prices and sellers change often."
+   ],
    "notes": "Nutrition read from the label image on the brand's product listing."
   },
   {
@@ -1364,10 +1417,10 @@
    "id": "alpino-high-protein-dark-chocolate-peanut-butter-crunch",
    "veg": "veg",
    "jain": null,
-   "price_inr": 543.0,
-   "mrp_inr": 679.0,
-   "price_store": "Brand site",
-   "price_url": "https://alpino.store/products/high-protein-dark-chocolate-peanut-butter-crunch",
+   "price_inr": 498.0,
+   "mrp_inr": 649.0,
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0BL3JS875",
    "price_date": "2026-10-19",
    "nutrition_url": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/01-1_eb67b45c-d28f-4196-9a35-6c55baf228a6.webp",
    "nutrition_page_url": "https://alpino.store/products/high-protein-dark-chocolate-peanut-butter-crunch",
@@ -1377,11 +1430,17 @@
      "name": "Brand site",
      "url": "https://alpino.store/products/high-protein-dark-chocolate-peanut-butter-crunch",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0BL3JS875",
+     "affiliate_url": ""
     }
    ],
    "image": null,
    "flags": [
-    "Listed as out of stock on the brand site when checked."
+    "Listed as out of stock on the brand site when checked.",
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹543). Retailer prices and sellers change often."
    ],
    "notes": "Nutrition read from the label image on the brand's product listing."
   },
@@ -1544,10 +1603,10 @@
    "id": "nakpro-whey-gold-protein-concentrate-unflavoured",
    "veg": "veg",
    "jain": null,
-   "price_inr": 1549.0,
-   "mrp_inr": 2500.0,
-   "price_store": "Brand site",
-   "price_url": "https://nakpro.com/products/whey-gold-protein-concentrate?variant=41341789012048",
+   "price_inr": 1472.0,
+   "mrp_inr": 1549.0,
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B07KW3V6XV",
    "price_date": "2026-10-19",
    "nutrition_url": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/gold-03_f824dcde-0067-40a7-b7e2-285b784efbe0.png",
    "nutrition_page_url": "https://nakpro.com/products/whey-gold-protein-concentrate?variant=41341789012048",
@@ -1557,11 +1616,17 @@
      "name": "Brand site",
      "url": "https://nakpro.com/products/whey-gold-protein-concentrate?variant=41341789012048",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B07KW3V6XV",
+     "affiliate_url": ""
     }
    ],
    "image": null,
    "flags": [
-    "Protein on dry basis per label."
+    "Protein on dry basis per label.",
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹1549). Retailer prices and sellers change often."
    ],
    "notes": "Nutrition read from the label image on the brand's product listing."
   },
@@ -1869,10 +1934,10 @@
    "id": "open-secret-premium-makhana-plain",
    "veg": "veg",
    "jain": null,
-   "price_inr": 399.0,
+   "price_inr": 335.0,
    "mrp_inr": 549.0,
-   "price_store": "Brand site",
-   "price_url": "https://opensecret.in/products/open-secret-premium-makhana",
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0GBWXWKXY",
    "price_date": "2026-10-19",
    "nutrition_url": "https://cdn.shopify.com/s/files/1/0629/7252/6778/files/makhana_plain_website_11_june_2024_2.jpg",
    "nutrition_page_url": "https://opensecret.in/products/open-secret-premium-makhana",
@@ -1882,10 +1947,17 @@
      "name": "Brand site",
      "url": "https://opensecret.in/products/open-secret-premium-makhana",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0GBWXWKXY",
+     "affiliate_url": ""
     }
    ],
    "image": null,
-   "flags": [],
+   "flags": [
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹399). Retailer prices and sellers change often."
+   ],
    "notes": "Nutrition read from the label image on the brand's product listing."
   },
   {
@@ -2046,10 +2118,10 @@
    "id": "the-whole-truth-double-cocoa-pro-protein-bar-box-of-5",
    "veg": "veg",
    "jain": null,
-   "price_inr": 995.0,
-   "mrp_inr": null,
-   "price_store": "Brand site",
-   "price_url": "https://thewholetruthfoods.com/products/high-protein-double-cocoa-box-of-5",
+   "price_inr": 825.0,
+   "mrp_inr": 995.0,
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0BVLXKKVZ",
    "price_date": "2026-10-19",
    "nutrition_url": "https://thewholetruthfoods.com/products/high-protein-double-cocoa-box-of-5",
    "nutrition_page_url": "https://thewholetruthfoods.com/products/high-protein-double-cocoa-box-of-5",
@@ -2059,11 +2131,17 @@
      "name": "Brand site",
      "url": "https://thewholetruthfoods.com/products/high-protein-double-cocoa-box-of-5",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0BVLXKKVZ",
+     "affiliate_url": ""
     }
    ],
    "image": null,
    "flags": [
-    "Nutrition taken from the nutrition data published on the brand's product page (per bar, as listed); label image not separately checked."
+    "Nutrition taken from the nutrition data published on the brand's product page (per bar, as listed); label image not separately checked.",
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹995). Retailer prices and sellers change often."
    ],
    "notes": ""
   },
@@ -2082,10 +2160,10 @@
    "id": "the-whole-truth-peanut-cocoa-pro-protein-bar-box-of-5",
    "veg": "veg",
    "jain": null,
-   "price_inr": 995.0,
-   "mrp_inr": null,
-   "price_store": "Brand site",
-   "price_url": "https://thewholetruthfoods.com/products/high-protein-peanut-cocoa-box-of-5",
+   "price_inr": 825.0,
+   "mrp_inr": 995.0,
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0BVLXL4YP",
    "price_date": "2026-10-19",
    "nutrition_url": "https://thewholetruthfoods.com/products/high-protein-peanut-cocoa-box-of-5",
    "nutrition_page_url": "https://thewholetruthfoods.com/products/high-protein-peanut-cocoa-box-of-5",
@@ -2095,11 +2173,17 @@
      "name": "Brand site",
      "url": "https://thewholetruthfoods.com/products/high-protein-peanut-cocoa-box-of-5",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0BVLXL4YP",
+     "affiliate_url": ""
     }
    ],
    "image": null,
    "flags": [
-    "Nutrition taken from the nutrition data published on the brand's product page (per bar, as listed); label image not separately checked."
+    "Nutrition taken from the nutrition data published on the brand's product page (per bar, as listed); label image not separately checked.",
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹995). Retailer prices and sellers change often."
    ],
    "notes": ""
   },
@@ -2118,10 +2202,10 @@
    "id": "the-whole-truth-coffee-cocoa-pro-protein-bar-box-of-5",
    "veg": "veg",
    "jain": null,
-   "price_inr": 995.0,
+   "price_inr": 825.0,
    "mrp_inr": null,
-   "price_store": "Brand site",
-   "price_url": "https://thewholetruthfoods.com/products/high-protein-coffee-cocoa-box-of-5",
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0BVLTXMPN",
    "price_date": "2026-10-19",
    "nutrition_url": "https://thewholetruthfoods.com/products/high-protein-coffee-cocoa-box-of-5",
    "nutrition_page_url": "https://thewholetruthfoods.com/products/high-protein-coffee-cocoa-box-of-5",
@@ -2131,11 +2215,17 @@
      "name": "Brand site",
      "url": "https://thewholetruthfoods.com/products/high-protein-coffee-cocoa-box-of-5",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0BVLTXMPN",
+     "affiliate_url": ""
     }
    ],
    "image": null,
    "flags": [
-    "Nutrition taken from the nutrition data published on the brand's product page (per bar, as listed); label image not separately checked."
+    "Nutrition taken from the nutrition data published on the brand's product page (per bar, as listed); label image not separately checked.",
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹995). Retailer prices and sellers change often."
    ],
    "notes": ""
   },
@@ -2551,10 +2641,10 @@
    "id": "superyou-choco-peanut-butter-protein-wafer-pack-of-10",
    "veg": "veg",
    "jain": null,
-   "price_inr": 499.0,
-   "mrp_inr": 600.0,
-   "price_store": "Brand site",
-   "price_url": "https://superyou.in/products/choco-peanut-butter-protein-wafer",
+   "price_inr": 394.0,
+   "mrp_inr": 550.0,
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0DMT34S1D",
    "price_date": "2026-10-19",
    "nutrition_url": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/7_NI_Table_2.png",
    "nutrition_page_url": "https://superyou.in/products/choco-peanut-butter-protein-wafer",
@@ -2564,11 +2654,17 @@
      "name": "Brand site",
      "url": "https://superyou.in/products/choco-peanut-butter-protein-wafer",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0DMT34S1D",
+     "affiliate_url": ""
     }
    ],
    "image": null,
    "flags": [
-    "Label gives values per 40 g serving; per-100 g values are calculated from them."
+    "Label gives values per 40 g serving; per-100 g values are calculated from them.",
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹499). Retailer prices and sellers change often."
    ],
    "notes": "Nutrition read from the label image on the brand's product listing."
   },
@@ -2587,10 +2683,10 @@
    "id": "superyou-20g-mega-protein-wafer-cranberry-crunch-pack-of-6",
    "veg": "veg",
    "jain": null,
-   "price_inr": 699.0,
+   "price_inr": 599.0,
    "mrp_inr": 750.0,
-   "price_store": "Brand site",
-   "price_url": "https://superyou.in/products/20g-mega-protein-cranberry-crunch",
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0HC45BCSG",
    "price_date": "2026-10-19",
    "nutrition_url": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/9_20gProtein_NITable.png",
    "nutrition_page_url": "https://superyou.in/products/20g-mega-protein-cranberry-crunch",
@@ -2600,11 +2696,17 @@
      "name": "Brand site",
      "url": "https://superyou.in/products/20g-mega-protein-cranberry-crunch",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0HC45BCSG",
+     "affiliate_url": ""
     }
    ],
    "image": null,
    "flags": [
-    "Label gives values per 60 g serving; per-100 g values are calculated from them."
+    "Label gives values per 60 g serving; per-100 g values are calculated from them.",
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹699). Retailer prices and sellers change often."
    ],
    "notes": "Nutrition read from the label image on the brand's product listing."
   },
@@ -2732,10 +2834,10 @@
    "id": "supply6-protein-wafer-cookies-and-cream-pack-of-10",
    "veg": "veg",
    "jain": true,
-   "price_inr": 580.0,
+   "price_inr": 510.0,
    "mrp_inr": 600.0,
-   "price_store": "Brand site",
-   "price_url": "https://supplysix.com/products/supply6-protein-wafer-cookiesandcream",
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0H5JQ3LYW",
    "price_date": "2026-10-19",
    "nutrition_url": "https://cdn.shopify.com/s/files/1/0473/8351/1194/files/C_C7.jpg",
    "nutrition_page_url": "https://supplysix.com/products/supply6-protein-wafer-cookiesandcream",
@@ -2745,12 +2847,18 @@
      "name": "Brand site",
      "url": "https://supplysix.com/products/supply6-protein-wafer-cookiesandcream",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0H5JQ3LYW",
+     "affiliate_url": ""
     }
    ],
    "image": null,
    "flags": [
     "Label gives values per 40 g serving; per-100 g values are calculated from them.",
-    "Jain: based on the ingredient list on the label image (no onion, garlic, root vegetables, gelatin, egg or honey listed)."
+    "Jain: based on the ingredient list on the label image (no onion, garlic, root vegetables, gelatin, egg or honey listed).",
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹580). Retailer prices and sellers change often."
    ],
    "notes": "Nutrition read from the label image on the brand's product listing."
   },
@@ -2769,10 +2877,10 @@
    "id": "supply6-protein-wafer-strawberry-pack-of-10",
    "veg": "veg",
    "jain": false,
-   "price_inr": 580.0,
+   "price_inr": 510.0,
    "mrp_inr": 600.0,
-   "price_store": "Brand site",
-   "price_url": "https://supplysix.com/products/supply6-protein-wafer-strawberry",
+   "price_store": "Amazon.in",
+   "price_url": "https://www.amazon.in/dp/B0G3WWL42J",
    "price_date": "2026-10-19",
    "nutrition_url": "https://cdn.shopify.com/s/files/1/0473/8351/1194/files/Strawberry_7.jpg",
    "nutrition_page_url": "https://supplysix.com/products/supply6-protein-wafer-strawberry",
@@ -2782,12 +2890,18 @@
      "name": "Brand site",
      "url": "https://supplysix.com/products/supply6-protein-wafer-strawberry",
      "affiliate_url": ""
+    },
+    {
+     "name": "Amazon.in",
+     "url": "https://www.amazon.in/dp/B0G3WWL42J",
+     "affiliate_url": ""
     }
    ],
    "image": null,
    "flags": [
     "Label gives values per 40 g serving; per-100 g values are calculated from them.",
-    "Jain: ingredient list includes beetroot powder."
+    "Jain: ingredient list includes beetroot powder.",
+    "Lowest price found was the Amazon.in listing price on the check date (brand site: ₹580). Retailer prices and sellers change often."
    ],
    "notes": "Nutrition read from the label image on the brand's product listing."
   },
