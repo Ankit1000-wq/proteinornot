@@ -288,8 +288,9 @@ function main() {
 
   // Static pages
   page('disclaimer', { ...common, title: 'Disclaimer | ProteinOrNot.in', description: 'Where the numbers on ProteinOrNot.in come from, what they mean, and what they do not mean.', canonicalPath: '/disclaimer/', body: T.disclaimerPage() });
-  page('method', { ...common, title: 'How the numbers work | ProteinOrNot.in', description: 'Formulas for protein per 100 kcal and ₹ per 10 g protein, with worked examples and rounding rules.', canonicalPath: '/method/', body: T.aboutMethodPage() });
-  urls.push('/method/', '/disclaimer/');
+  page('method', { ...common, title: 'How we calculate: protein per 100 kcal and ₹ per 10 g protein | ProteinOrNot.in', description: 'Formulas for protein per 100 kcal and ₹ per 10 g protein, with worked examples, rounding rules and how label values and Jain info are used.', canonicalPath: '/method/', body: T.aboutMethodPage() });
+  page('disclosure', { ...common, title: 'Affiliate & sponsorship disclosure | ProteinOrNot.in', description: 'Store links may earn a commission in future. Rankings are pure maths from label values and prices, and are never paid for.', canonicalPath: '/disclosure/', body: T.disclosurePage() });
+  urls.push('/method/', '/disclaimer/', '/disclosure/');
   write('404.html', T.layout({ ...common, title: 'Page not found | ProteinOrNot.in', description: 'Page not found.', canonicalPath: '/404.html', body: T.notFoundPage(), noindex: true }));
 
   // Assets

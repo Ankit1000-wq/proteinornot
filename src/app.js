@@ -1,26 +1,8 @@
 /* ProteinOrNot.in client script. No dependencies.
-   - Newsletter form: shows a message, sends nothing.
+   - No forms collect data; the newsletter block is a static 'coming soon' note.
    - Homepage: filter, sort and search the server-rendered table; state lives in the URL. */
 (function () {
   'use strict';
-
-  /* Newsletter (all pages). TODO: replace with real provider once chosen. */
-  document.querySelectorAll('.nl-form').forEach(function (form) {
-    form.addEventListener('submit', function (e) {
-      e.preventDefault();
-      var email = form.querySelector('input[type="email"]');
-      var msg = form.querySelector('.nl-msg');
-      if (!email.value || !email.checkValidity()) {
-        msg.textContent = 'Please enter a valid email address.';
-        form.classList.add('is-error');
-        email.focus();
-        return;
-      }
-      form.classList.remove('is-error');
-      form.classList.add('is-done');
-      msg.textContent = 'Thanks, coming soon! The newsletter is not live yet, so nothing was sent or stored.';
-    });
-  });
 
   var dataEl = document.getElementById('data');
   var table = document.getElementById('rank-table');

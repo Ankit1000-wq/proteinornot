@@ -7,10 +7,18 @@
 export const SITE = (process.env.SITE_URL || 'https://proteinornot.in').replace(/\/+$/, '');
 // Path prefix for root-relative links, e.g. '/proteinornot' on a GitHub project page, '' on a custom domain.
 export const BASE_PATH = new URL(SITE + '/').pathname.replace(/\/+$/, '');
-// PLACEHOLDER: corrections inbox not set up yet. Replace once the mailbox exists.
-export const CORRECTIONS_MAILTO = 'mailto:corrections@proteinornot.in?subject=Correction';
-// PLACEHOLDER wording for the affiliate disclosure; have it reviewed before any affiliate links go live.
-export const AFFILIATE_LINE = 'Some buy links may become affiliate links in future; this never changes rankings.';
+// Corrections go through a public GitHub issue (prefilled "Correction request" template).
+export const REPO_URL = 'https://github.com/Ankit1000-wq/proteinornot';
+export function correctionUrl(p = null) {
+  const title = p ? `Correction request: ${p.brand} ${p.name}` : 'Correction request: ';
+  const q = new URLSearchParams({ template: 'correction.md', title });
+  if (p) q.set('body', `Product page: ${SITE}/p/${p.id}/\n\nWhich value is different (protein, energy, pack size, price, diet/Jain)?\n\nWhat the pack or listing shows:\n\nSource link or photo of the label:\n`);
+  return `${REPO_URL}/issues/new?${q.toString()}`;
+}
+export const CORRECTIONS_URL = correctionUrl();
+const corrLink = (p = null, text = 'Report a correction') =>
+  `<a href="${esc(correctionUrl(p))}" target="_blank" rel="noopener">${text}<span class="sr-only"> (opens a GitHub issue in a new tab)</span></a>`;
+export const AFFILIATE_LINE = 'Some store links may earn us a commission in future. Rankings are pure maths and are never paid for.';
 
 const FONTS_HREF =
   'https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Inter:wght@400..700&display=swap';
@@ -140,8 +148,9 @@ export function dietBadge(veg, { compact = false } = {}) {
 }
 
 function jainBadge(jain) {
-  return jain === true ? '<span class="tag tag-jain">Jain-friendly per label</span>' : '';
+  return jain === true ? '<span class="tag tag-jain" title="Based on the ingredient list">Jain-friendly (ingredient list)</span>' : '';
 }
+export const JAIN_NOTE = 'Jain-friendly is our reading of the printed ingredient list only (no onion, garlic, root vegetables, gelatin, egg or honey listed). It is not a certification and does not cover processing or shared equipment. Blank means we could not judge it from the list.';
 
 /* ----------------------------------------------------------------- layout */
 
@@ -240,15 +249,14 @@ function footer(generated) {
       <ul>
         <li><a href="/method/">How the numbers work</a></li>
         <li><a href="/disclaimer/">Disclaimer</a></li>
-        <!-- PLACEHOLDER: corrections@proteinornot.in mailbox to be created -->
-        <li><a href="${CORRECTIONS_MAILTO}">Report a correction</a></li>
+        <li><a href="/disclosure/">Affiliate &amp; sponsorship disclosure</a></li>
+        <li>${corrLink()}</li>
       </ul>
     </nav>
   </div>
   <div class="wrap footer-legal">
-    <!-- PLACEHOLDER wording: affiliate disclosure -->
-    <p>${esc(AFFILIATE_LINE)}</p>
-    <p>Not affiliated with any brand listed. Trademarks belong to their owners. Not medical or nutrition advice.</p>
+    <p>${esc(AFFILIATE_LINE)} <a href="/disclosure/">Disclosure</a>.</p>
+    <p>Not affiliated with any brand listed. Trademarks belong to their owners. Values are as printed by brands, not lab tested. Not medical or nutrition advice.</p>
   </div>
 </footer>`;
 }
@@ -256,19 +264,13 @@ function footer(generated) {
 /* --------------------------------------------------------------- pieces */
 
 function newsletterBox() {
+  // No email is collected anywhere on this site. Swap this for a real signup only after a provider is chosen.
   return `<section class="newsletter" aria-labelledby="nl-title">
   <div class="nl-inner">
     <p class="kicker">Newsletter</p>
-    <h2 id="nl-title">The Protein Ledger</h2>
-    <p>One short email a week: new products added, price changes in ₹ per 10 g protein, and one chart. Free.</p>
-    <!-- TODO: connect real newsletter provider (e.g. Buttondown/ConvertKit) -->
-    <form class="nl-form" action="#" method="post" novalidate>
-      <label for="nl-email" class="sr-only">Email address</label>
-      <input id="nl-email" type="email" name="email" autocomplete="email" placeholder="you@example.com" required>
-      <button type="submit" class="btn btn-ink">Subscribe</button>
-      <p class="nl-msg" role="status" aria-live="polite"></p>
-    </form>
-    <p class="nl-fine">No spam. Unsubscribe in one click.</p>
+    <h2 id="nl-title">The Protein Ledger: coming soon</h2>
+    <p>A short weekly note on new products and price changes in ₹ per 10 g protein is planned. There is no signup yet, and this site does not collect email addresses.</p>
+    <p class="nl-fine">Until then, follow changes on <a href="${REPO_URL}/commits/main" target="_blank" rel="noopener">GitHub</a> or check the “data updated” date in the footer.</p>
   </div>
 </section>`;
 }
@@ -352,7 +354,7 @@ function rankRow(p, i, maxes) {
   <td class="c-rank" role="cell"><span class="rank">${i + 1}</span></td>
   <th scope="row" class="c-prod" role="rowheader">
     ${productLabel(p)}
-    <span class="p-meta">${dietBadge(p.veg, { compact: true })}${p.jain === true ? '<span class="tag tag-jain tag-sm">Jain</span>' : ''}<span class="p-pack">${esc(p.pack_size)}</span><span class="p-cat-m">${esc(catName(p.category))}</span></span>
+    <span class="p-meta">${dietBadge(p.veg, { compact: true })}${p.jain === true ? '<span class="tag tag-jain tag-sm" title="Jain-friendly, based on ingredient list">Jain*</span>' : ''}<span class="p-pack">${esc(p.pack_size)}</span><span class="p-cat-m">${esc(catName(p.category))}</span></span>
   </th>
   <td class="c-cat" role="cell">${esc(catName(p.category))}</td>
   <td class="c-p100 c-num" role="cell" data-label="Protein / 100 kcal">${p100 ? `<span class="num">${p100}<small> g</small></span>` : DASH}${metricBar(p.protein_per_100kcal, maxes.p100, 'bar-p100')}</td>
@@ -491,7 +493,7 @@ ${topFive(products)}
     <p><b>No products match these filters.</b> Try a higher budget or fewer categories.</p>
     <button type="button" class="btn btn-ghost btn-sm" id="empty-reset">Reset filters</button>
   </div>
-  <p class="table-note">– means the value is not yet verified. Tap a product for label values, sources and dates.</p>
+  <p class="table-note">– means the value is not yet verified. Jain* = Jain-friendly based on the printed ingredient list only, not a certification. Values are as printed by brands, not lab tested. Tap a product for label values, sources and dates.</p>
 </section>
 
 <div class="wrap">${newsletterBox()}</div>
@@ -556,7 +558,7 @@ export function productPage(p, all) {
   const others = sortBy(all.filter((x) => x.id !== p.id && x.category !== p.category && hasMetrics(x)), 'inr');
   const similar = [...sameCat, ...others].slice(0, 4);
 
-  const jainText = p.jain === true ? 'Yes, per label or listing' : p.jain === false ? 'No' : 'Not stated';
+  const jainText = p.jain === true ? 'Yes, based on ingredient list' : p.jain === false ? 'No, based on ingredient list' : 'Not judged';
 
   return `
 <nav class="crumbs wrap" aria-label="Breadcrumb"><ol><li><a href="/">Rankings</a></li><li><a href="/?cat=${esc(p.category)}">${esc(cat)}</a></li><li aria-current="page">${esc(p.name)}</li></ol></nav>
@@ -590,10 +592,11 @@ export function productPage(p, all) {
       </table>
       <dl class="facts">
         <div><dt>Diet</dt><dd>${dietBadge(p.veg)}</dd></div>
-        <div><dt>Jain</dt><dd>${jainText}</dd></div>
+        <div><dt>Jain <small>(based on ingredient list)</small></dt><dd>${jainText}${p.jain_reason ? ` <small>· ${esc(p.jain_reason)}</small>` : ''}</dd></div>
         <div><dt>Pack</dt><dd>${esc(p.pack_size)}${isNum(p.pack_g) ? ` (${g(p.pack_g)} g total)` : ''}</dd></div>
         <div><dt>Protein in pack</dt><dd>${isNum(p._total_protein_g) ? `${g(p._total_protein_g)} g` : DASH}</dd></div>
       </dl>
+      <p class="price-fine">${esc(JAIN_NOTE)}${safeUrl(p.ingredients_url) ? ` <a href="${esc(safeUrl(p.ingredients_url))}" target="_blank" rel="nofollow noopener">Ingredient source ↗</a>` : ''}</p>
     </section>
 
     <section class="panel panel-price" aria-labelledby="price-title">
@@ -602,11 +605,11 @@ export function productPage(p, all) {
       <p class="price-meta">On <b>${esc(p.price_store)}</b>, ${fmtDate(p.price_date)}${isNum(p.mrp_inr) && p.mrp_inr !== p.price_inr ? ` · MRP ${src(priceUrl, inrAuto(p.mrp_inr), 'price listing')}` : ''}${isNum(p.units) && p.units > 1 && isNum(p.price_per_unit_inr) ? ` · ${inr(p.price_per_unit_inr, 2)} per unit` : ''}</p>
       <p class="price-fine">Prices change often and vary by city and pincode. The ranking uses this price.</p>
       ${buy ? `<div class="buy">${buy}</div>` : ''}
-      <p class="price-fine">${esc(AFFILIATE_LINE)}</p>
+      <p class="price-fine">${esc(AFFILIATE_LINE)} <a href="/disclosure/">Disclosure</a>.</p>
     </section>
   </div>
 
-  <p class="product-foot">Spotted a different number on the pack? <a href="${CORRECTIONS_MAILTO}">Report a correction</a> and we will re-check it. See <a href="/method/">how the numbers work</a>.</p>
+  <p class="product-foot">Spotted a different number on the pack? ${corrLink(p)} and we will re-check it. Values are as printed by the brand, not lab tested. See <a href="/method/">how we calculate</a>.</p>
 </article>
 
 ${similar.length ? `<section class="similar wrap" aria-labelledby="sim-title">
@@ -658,7 +661,7 @@ export function seoPage({ slug, title, h1, intro, products, explainer, metric = 
   <aside class="explainer" aria-labelledby="exp-title">
     <h2 id="exp-title">How this list is made</h2>
     ${(Array.isArray(explainer) ? explainer : [explainer]).filter(Boolean).map((t) => `<p>${esc(t)}</p>`).join('')}
-    <p>Full formulas and rounding rules are on the <a href="/method/">method page</a>. Spot an error? <a href="${CORRECTIONS_MAILTO}">Report a correction</a>.</p>
+    <p>Full formulas and rounding rules are on the <a href="/method/">method page</a>. Spot an error? ${corrLink()}.</p>
   </aside>
 </article>
 <div class="wrap">${newsletterBox()}</div>
@@ -679,14 +682,17 @@ export function disclaimerPage() {
   <h2>What the numbers mean</h2>
   <p>Rankings are calculated from two ratios: grams of protein per 100 kcal, and rupees per 10 g of protein. They describe value for protein only. They do not describe taste, ingredients, quality, safety or suitability for any person, and they are not a rating of any brand.</p>
   <h2>Things change</h2>
-  <p>Prices change often and vary by city, pincode, offer and pack size. Brands update recipes and labels. Always read the pack you are buying. If you find a difference, please <a href="${CORRECTIONS_MAILTO}">report a correction</a> and we will re-check and update the page.</p>
+  <p>Prices change often and vary by city, pincode, offer and pack size. Brands update recipes and labels. Always read the pack you are buying. If you find a difference, please ${corrLink(null, 'report a correction')} (it opens a public GitHub issue) and we will re-check and update the page.</p>
+  <h2>Label values, not lab tests</h2>
+  <p>All nutrition values are as printed by the brand on the pack, its website or a store listing. We have not lab tested any product. Where we convert per-serving values to per-100 g, or work out a pack total, the product page says so.</p>
+  <h2>Jain and veg information</h2>
+  <p>The veg mark is as shown on the pack or listing. ${esc(JAIN_NOTE)}</p>
   <h2>Not medical or nutrition advice</h2>
   <p>Nothing on this site is medical, dietary or nutrition advice. Talk to a qualified professional about your own needs, allergies or conditions.</p>
   <h2>Brands and trademarks</h2>
   <p>ProteinOrNot.in is independent and is not affiliated with, endorsed by or sponsored by any brand or store listed. Brand names and trademarks belong to their owners and are used only to identify products.</p>
   <h2>Links and affiliate disclosure</h2>
-  <!-- PLACEHOLDER wording: affiliate disclosure; review before affiliate links go live -->
-  <p>${esc(AFFILIATE_LINE)} Store links are marked so search engines treat them as sponsored. Rankings are sorted only by the numbers shown.</p>
+  <p>${esc(AFFILIATE_LINE)} Store links are marked so search engines treat them as sponsored. Rankings are sorted only by the numbers shown. Full details are on the <a href="/disclosure/">affiliate and sponsorship disclosure</a> page.</p>
   <h2>Accuracy</h2>
   <p>We check our numbers carefully, but errors are possible. The site is provided as is, without warranties of any kind.</p>
 </article>`;
@@ -696,7 +702,7 @@ export function aboutMethodPage() {
   return `
 <article class="prose wrap">
   <p class="kicker">Method</p>
-  <h1 class="page-title">How the numbers work</h1>
+  <h1 class="page-title">How we calculate</h1>
   <p class="lede">Two ratios, worked out the same way for every product, from the label and the price we saw. No scores, no weighting, no opinions.</p>
 
   <section class="formula">
@@ -726,7 +732,33 @@ export function aboutMethodPage() {
   <h2>Prices</h2>
   <p>Each price is the whole-pack price on one named store on one date, including any discount shown at the time. Delivery charges are not included. Prices go out of date quickly; the date is always shown next to the price.</p>
   <h2>Sources</h2>
-  <p>Every number on a product page links to its source: the nutrition label or listing, and the price listing. If a source disagrees with the pack in your hand, the pack wins. Please <a href="${CORRECTIONS_MAILTO}">report a correction</a>.</p>
+  <p>Every number on a product page links to its source: the nutrition label or listing, and the price listing. If a source disagrees with the pack in your hand, the pack wins. Please ${corrLink(null, 'report a correction')}.</p>
+  <h2>Label values, not lab tests</h2>
+  <p>Every value is as printed by the brand (pack label, brand website or store listing). Nothing is lab tested by us. When a label gives only per-serving values, per-100 g values are worked out from them and the product page notes it.</p>
+  <h2>Jain-friendly field</h2>
+  <p>${esc(JAIN_NOTE)}</p>
+  <h2>Not medical advice</h2>
+  <p>These ratios compare value for protein only. They are not medical, dietary or nutrition advice. See the <a href="/disclaimer/">disclaimer</a>.</p>
+</article>`;
+}
+
+export function disclosurePage() {
+  return `
+<article class="prose wrap">
+  <p class="kicker">Money, plainly</p>
+  <h1 class="page-title">Affiliate &amp; sponsorship disclosure</h1>
+  <p class="lede">Short version: store links may earn us a commission in future. Rankings are pure maths and are never paid for.</p>
+  <h2>Affiliate links</h2>
+  <p>Some “View on store” links on ProteinOrNot.in may, in future, be affiliate links. If you buy through one, the store may pay us a small commission. You do not pay anything extra. As of today, no affiliate links are live on this site; all store links are plain links.</p>
+  <p>When affiliate links go live, this page will say so and list the stores involved. Store links are already marked <code>rel="sponsored"</code> for search engines.</p>
+  <h2>Rankings are never paid</h2>
+  <p>Every ranking is sorted only by two numbers worked out from the label and the price seen: protein per 100 kcal and ₹ per 10 g protein. No brand or store can pay to be included, to move up, or to be removed. A commission, if any, never changes a product's position. See <a href="/method/">how we calculate</a>.</p>
+  <h2>Sponsorship</h2>
+  <p>We have no sponsors, and we have not received free products or payment from any brand or store listed. If that ever changes, any sponsored content will be clearly labelled “Sponsored” or “Ad” next to it, in line with ASCI guidelines for advertising disclosure in India, and it will never affect the numbers.</p>
+  <h2>Independence</h2>
+  <p>ProteinOrNot.in is independent and not affiliated with any brand or store listed. Brand names are used only to identify products.</p>
+  <h2>Questions</h2>
+  <p>Think a link or label is not disclosed properly? ${corrLink(null, 'Open an issue on GitHub')}.</p>
 </article>`;
 }
 
