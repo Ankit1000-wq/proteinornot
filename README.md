@@ -12,7 +12,7 @@ links follow it, e.g. for the GitHub project page:
 ```
 SITE_URL=https://ankit1000-wq.github.io/proteinornot node build.mjs
 ```
-(when building for a subpath, preview with `python3 -m http.server -d .` style serving of a parent folder, or just use the root build locally).
+(For local preview, use the default root build; a subpath build expects to be served under /proteinornot/.)
 Other env: `SKIP_OG=1` skips rendering share PNGs; `CHROME_PATH` overrides the Chrome binary.
 
 ## Deploy
